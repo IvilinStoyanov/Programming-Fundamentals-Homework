@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\bin\Debug\Problem_1.Choose_a_Drink.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\obj\Debug\Problem 1. Choose a Drink.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\obj\Debug\Problem_1.Choose_a_Drink.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Choose a Drink\obj\Debug\Problem_1.Choose_a_Drink.pdb

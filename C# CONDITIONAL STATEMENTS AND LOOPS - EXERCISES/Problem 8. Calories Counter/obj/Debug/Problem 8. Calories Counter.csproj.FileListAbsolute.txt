@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 8. Calories Counter\obj\Debug\Problem 8. Calories Counter.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 8. Calories Counter\obj\Debug\Problem_8.Calories_Counter.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp CONDITIONAL STATEMENTS AND LOOPS\Problem 8. Calories Counter\obj\Debug\Problem_8.Calories_Counter.pdb
