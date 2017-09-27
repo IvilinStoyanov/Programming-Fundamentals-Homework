@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 5. Character Stats\obj\Debug\Problem_5.Character_Stats.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 5. Character Stats\obj\Debug\Problem_5.Character_Stats.pdb

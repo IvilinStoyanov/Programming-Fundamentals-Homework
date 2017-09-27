@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\bin\Debug\Problem_2.Rectangle_Area.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\bin\Debug\Problem_2.Rectangle_Area.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\bin\Debug\Problem_2.Rectangle_Area.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\obj\Debug\Problem_2.Rectangle_Area.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\obj\Debug\Problem_2.Rectangle_Area.pdb
