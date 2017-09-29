@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 8. Refactor Volume of Pyramid\bin\Debug\Task_8.Refactor_Volume_of_Pyramid.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 8. Refactor Volume of Pyramid\bin\Debug\Task_8.Refactor_Volume_of_Pyramid.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 8. Refactor Volume of Pyramid\bin\Debug\Task_8.Refactor_Volume_of_Pyramid.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 8. Refactor Volume of Pyramid\obj\Debug\Task_8.Refactor_Volume_of_Pyramid.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 8. Refactor Volume of Pyramid\obj\Debug\Task_8.Refactor_Volume_of_Pyramid.pdb

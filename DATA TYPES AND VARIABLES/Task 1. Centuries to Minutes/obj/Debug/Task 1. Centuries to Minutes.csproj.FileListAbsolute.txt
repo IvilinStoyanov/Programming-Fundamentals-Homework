@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 1. Centuries to Minutes\bin\Debug\Task_1.Centuries_to_Minutes.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 1. Centuries to Minutes\bin\Debug\Task_1.Centuries_to_Minutes.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 1. Centuries to Minutes\bin\Debug\Task_1.Centuries_to_Minutes.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 1. Centuries to Minutes\obj\Debug\Task 1. Centuries to Minutes.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 1. Centuries to Minutes\obj\Debug\Task_1.Centuries_to_Minutes.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 1. Centuries to Minutes\obj\Debug\Task_1.Centuries_to_Minutes.pdb

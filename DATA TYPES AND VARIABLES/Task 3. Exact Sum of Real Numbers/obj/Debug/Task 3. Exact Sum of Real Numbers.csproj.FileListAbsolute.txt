@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 3. Exact Sum of Real Numbers\bin\Debug\Task_3.Exact_Sum_of_Real_Numbers.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 3. Exact Sum of Real Numbers\bin\Debug\Task_3.Exact_Sum_of_Real_Numbers.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 3. Exact Sum of Real Numbers\bin\Debug\Task_3.Exact_Sum_of_Real_Numbers.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 3. Exact Sum of Real Numbers\obj\Debug\Task_3.Exact_Sum_of_Real_Numbers.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 3. Exact Sum of Real Numbers\obj\Debug\Task_3.Exact_Sum_of_Real_Numbers.pdb

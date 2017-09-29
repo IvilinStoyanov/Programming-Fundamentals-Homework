@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 4. Elevator\bin\Debug\Task_4.Elevator.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 4. Elevator\bin\Debug\Task_4.Elevator.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 4. Elevator\bin\Debug\Task_4.Elevator.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 4. Elevator\obj\Debug\Task 4. Elevator.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 4. Elevator\obj\Debug\Task_4.Elevator.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 4. Elevator\obj\Debug\Task_4.Elevator.pdb

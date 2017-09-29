@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 6. Triples of Latin Letters\bin\Debug\Task_6.Triples_of_Latin_Letters.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 6. Triples of Latin Letters\bin\Debug\Task_6.Triples_of_Latin_Letters.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 6. Triples of Latin Letters\bin\Debug\Task_6.Triples_of_Latin_Letters.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 6. Triples of Latin Letters\obj\Debug\Task 6. Triples of Latin Letters.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 6. Triples of Latin Letters\obj\Debug\Task_6.Triples_of_Latin_Letters.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 6. Triples of Latin Letters\obj\Debug\Task_6.Triples_of_Latin_Letters.pdb

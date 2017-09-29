@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 5. Special Numbers\bin\Debug\Task_5.Special_Numbers.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 5. Special Numbers\bin\Debug\Task_5.Special_Numbers.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 5. Special Numbers\bin\Debug\Task_5.Special_Numbers.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 5. Special Numbers\obj\Debug\Task 5. Special Numbers.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 5. Special Numbers\obj\Debug\Task_5.Special_Numbers.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 5. Special Numbers\obj\Debug\Task_5.Special_Numbers.pdb

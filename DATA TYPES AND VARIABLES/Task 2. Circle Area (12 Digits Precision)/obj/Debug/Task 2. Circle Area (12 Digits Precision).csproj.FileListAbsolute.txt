@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 2. Circle Area (12 Digits Precision)\bin\Debug\Task_2.Circle_Area__12_Digits_Precision_.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 2. Circle Area (12 Digits Precision)\bin\Debug\Task_2.Circle_Area__12_Digits_Precision_.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 2. Circle Area (12 Digits Precision)\bin\Debug\Task_2.Circle_Area__12_Digits_Precision_.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 2. Circle Area (12 Digits Precision)\obj\Debug\Task_2.Circle_Area__12_Digits_Precision_.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES\Task 2. Circle Area (12 Digits Precision)\obj\Debug\Task_2.Circle_Area__12_Digits_Precision_.pdb
