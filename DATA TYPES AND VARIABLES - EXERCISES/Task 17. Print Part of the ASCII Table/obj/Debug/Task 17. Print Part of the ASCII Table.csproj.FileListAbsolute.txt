@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 17. Print Part of the ASCII Table\bin\Debug\Task_17.Print_Part_of_the_ASCII_Table.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 17. Print Part of the ASCII Table\bin\Debug\Task_17.Print_Part_of_the_ASCII_Table.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 17. Print Part of the ASCII Table\bin\Debug\Task_17.Print_Part_of_the_ASCII_Table.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 17. Print Part of the ASCII Table\obj\Debug\Task_17.Print_Part_of_the_ASCII_Table.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 17. Print Part of the ASCII Table\obj\Debug\Task_17.Print_Part_of_the_ASCII_Table.pdb

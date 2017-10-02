@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 5. Boolean Variable\bin\Debug\Task_5.Boolean_Variable.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 5. Boolean Variable\bin\Debug\Task_5.Boolean_Variable.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 5. Boolean Variable\bin\Debug\Task_5.Boolean_Variable.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 5. Boolean Variable\obj\Debug\Task_5.Boolean_Variable.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 5. Boolean Variable\obj\Debug\Task_5.Boolean_Variable.pdb

@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 1. Practice Integer Number\bin\Debug\Task_1.Practice_Integer_Number.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 1. Practice Integer Number\bin\Debug\Task_1.Practice_Integer_Number.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 1. Practice Integer Number\bin\Debug\Task_1.Practice_Integer_Number.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 1. Practice Integer Number\obj\Debug\Task 1. Practice Integer Number.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 1. Practice Integer Number\obj\Debug\Task_1.Practice_Integer_Number.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 1. Practice Integer Number\obj\Debug\Task_1.Practice_Integer_Number.pdb

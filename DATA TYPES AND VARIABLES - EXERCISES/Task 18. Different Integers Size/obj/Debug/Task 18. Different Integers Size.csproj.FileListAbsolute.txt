@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 18. Different Integers Size\bin\Debug\Task_18.Different_Integers_Size.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 18. Different Integers Size\bin\Debug\Task_18.Different_Integers_Size.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 18. Different Integers Size\bin\Debug\Task_18.Different_Integers_Size.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 18. Different Integers Size\obj\Debug\Task_18.Different_Integers_Size.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 18. Different Integers Size\obj\Debug\Task_18.Different_Integers_Size.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 14. Integer to Hex and Binary\bin\Debug\Task_14.Integer_to_Hex_and_Binary.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 14. Integer to Hex and Binary\bin\Debug\Task_14.Integer_to_Hex_and_Binary.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 14. Integer to Hex and Binary\bin\Debug\Task_14.Integer_to_Hex_and_Binary.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 14. Integer to Hex and Binary\obj\Debug\Task_14.Integer_to_Hex_and_Binary.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 14. Integer to Hex and Binary\obj\Debug\Task_14.Integer_to_Hex_and_Binary.pdb

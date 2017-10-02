@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 9. Reverse Characters\bin\Debug\Task_9.Reverse_Characters.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 9. Reverse Characters\bin\Debug\Task_9.Reverse_Characters.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 9. Reverse Characters\bin\Debug\Task_9.Reverse_Characters.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 9. Reverse Characters\obj\Debug\Task_9.Reverse_Characters.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 9. Reverse Characters\obj\Debug\Task_9.Reverse_Characters.pdb

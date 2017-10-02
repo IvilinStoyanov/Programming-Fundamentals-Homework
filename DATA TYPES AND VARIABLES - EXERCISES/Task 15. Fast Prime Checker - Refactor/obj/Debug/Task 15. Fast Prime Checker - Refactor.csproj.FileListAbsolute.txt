@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 15. Fast Prime Checker - Refactor\bin\Debug\Task_15.Fast_Prime_Checker___Refactor.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 15. Fast Prime Checker - Refactor\bin\Debug\Task_15.Fast_Prime_Checker___Refactor.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 15. Fast Prime Checker - Refactor\bin\Debug\Task_15.Fast_Prime_Checker___Refactor.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 15. Fast Prime Checker - Refactor\obj\Debug\Task_15.Fast_Prime_Checker___Refactor.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 15. Fast Prime Checker - Refactor\obj\Debug\Task_15.Fast_Prime_Checker___Refactor.pdb

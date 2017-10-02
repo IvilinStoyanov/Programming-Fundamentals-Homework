@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 2. Practice Floating Points\bin\Debug\Task_2.Practice_Floating_Points.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 2. Practice Floating Points\bin\Debug\Task_2.Practice_Floating_Points.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 2. Practice Floating Points\bin\Debug\Task_2.Practice_Floating_Points.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 2. Practice Floating Points\obj\Debug\Task_2.Practice_Floating_Points.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 2. Practice Floating Points\obj\Debug\Task_2.Practice_Floating_Points.pdb

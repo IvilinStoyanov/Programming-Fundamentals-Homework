@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 10. Centuries to Nanoseconds\bin\Debug\Task_10.Centuries_to_Nanoseconds.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 10. Centuries to Nanoseconds\bin\Debug\Task_10.Centuries_to_Nanoseconds.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 10. Centuries to Nanoseconds\bin\Debug\Task_10.Centuries_to_Nanoseconds.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 10. Centuries to Nanoseconds\obj\Debug\Task 10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 10. Centuries to Nanoseconds\obj\Debug\Task_10.Centuries_to_Nanoseconds.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 10. Centuries to Nanoseconds\obj\Debug\Task_10.Centuries_to_Nanoseconds.pdb

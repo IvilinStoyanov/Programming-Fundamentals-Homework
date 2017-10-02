@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 4. Variable in Hexadecimal Format\bin\Debug\Task_4.Variable_in_Hexadecimal_Format.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 4. Variable in Hexadecimal Format\bin\Debug\Task_4.Variable_in_Hexadecimal_Format.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 4. Variable in Hexadecimal Format\bin\Debug\Task_4.Variable_in_Hexadecimal_Format.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 4. Variable in Hexadecimal Format\obj\Debug\Task_4.Variable_in_Hexadecimal_Format.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 4. Variable in Hexadecimal Format\obj\Debug\Task_4.Variable_in_Hexadecimal_Format.pdb

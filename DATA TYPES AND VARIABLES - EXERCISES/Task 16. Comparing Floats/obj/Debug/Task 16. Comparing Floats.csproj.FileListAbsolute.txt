@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 16. Comparing Floats\bin\Debug\Task_16.Comparing_Floats.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 16. Comparing Floats\bin\Debug\Task_16.Comparing_Floats.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 16. Comparing Floats\bin\Debug\Task_16.Comparing_Floats.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 16. Comparing Floats\obj\Debug\Task 16. Comparing Floats.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 16. Comparing Floats\obj\Debug\Task_16.Comparing_Floats.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Task 16. Comparing Floats\obj\Debug\Task_16.Comparing_Floats.pdb
