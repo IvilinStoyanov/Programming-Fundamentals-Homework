@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 04. Draw a Filled Square\bin\Debug\Task_04.Draw_a_Filled_Square.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 04. Draw a Filled Square\bin\Debug\Task_04.Draw_a_Filled_Square.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 04. Draw a Filled Square\bin\Debug\Task_04.Draw_a_Filled_Square.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 04. Draw a Filled Square\obj\Debug\Task_04.Draw_a_Filled_Square.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 04. Draw a Filled Square\obj\Debug\Task_04.Draw_a_Filled_Square.pdb

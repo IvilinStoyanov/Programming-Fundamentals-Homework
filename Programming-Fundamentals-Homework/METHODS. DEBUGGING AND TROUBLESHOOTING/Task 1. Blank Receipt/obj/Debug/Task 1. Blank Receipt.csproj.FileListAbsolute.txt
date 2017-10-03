@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 1. Blank Receipt\bin\Debug\Task_1.Blank_Receipt.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 1. Blank Receipt\bin\Debug\Task_1.Blank_Receipt.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 1. Blank Receipt\bin\Debug\Task_1.Blank_Receipt.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 1. Blank Receipt\obj\Debug\Task 1. Blank Receipt.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 1. Blank Receipt\obj\Debug\Task_1.Blank_Receipt.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 1. Blank Receipt\obj\Debug\Task_1.Blank_Receipt.pdb

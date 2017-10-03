@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 03. Printing Triangle\bin\Debug\Task_03.Printing_Triangle.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 03. Printing Triangle\bin\Debug\Task_03.Printing_Triangle.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 03. Printing Triangle\bin\Debug\Task_03.Printing_Triangle.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 03. Printing Triangle\obj\Debug\Task_03.Printing_Triangle.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 03. Printing Triangle\obj\Debug\Task_03.Printing_Triangle.pdb

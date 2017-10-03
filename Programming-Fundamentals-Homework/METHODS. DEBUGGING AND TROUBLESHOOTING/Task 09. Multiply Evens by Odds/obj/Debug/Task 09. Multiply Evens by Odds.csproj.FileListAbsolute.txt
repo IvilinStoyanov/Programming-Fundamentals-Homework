@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 09. Multiply Evens by Odds\bin\Debug\Task_09.Multiply_Evens_by_Odds.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 09. Multiply Evens by Odds\bin\Debug\Task_09.Multiply_Evens_by_Odds.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 09. Multiply Evens by Odds\bin\Debug\Task_09.Multiply_Evens_by_Odds.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 09. Multiply Evens by Odds\obj\Debug\Task_09.Multiply_Evens_by_Odds.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 09. Multiply Evens by Odds\obj\Debug\Task_09.Multiply_Evens_by_Odds.pdb

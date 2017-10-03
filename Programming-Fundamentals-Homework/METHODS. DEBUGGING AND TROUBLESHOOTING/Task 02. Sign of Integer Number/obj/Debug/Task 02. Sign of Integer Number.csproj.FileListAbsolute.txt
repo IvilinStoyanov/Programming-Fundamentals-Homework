@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 02. Sign of Integer Number\bin\Debug\Task_02.Sign_of_Integer_Number.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 02. Sign of Integer Number\bin\Debug\Task_02.Sign_of_Integer_Number.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 02. Sign of Integer Number\bin\Debug\Task_02.Sign_of_Integer_Number.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 02. Sign of Integer Number\obj\Debug\Task_02.Sign_of_Integer_Number.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 02. Sign of Integer Number\obj\Debug\Task_02.Sign_of_Integer_Number.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 06. 6. Calculate Triangle Area\bin\Debug\Task_06._6.Calculate_Triangle_Area.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 06. 6. Calculate Triangle Area\bin\Debug\Task_06._6.Calculate_Triangle_Area.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 06. 6. Calculate Triangle Area\bin\Debug\Task_06._6.Calculate_Triangle_Area.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 06. 6. Calculate Triangle Area\obj\Debug\Task_06._6.Calculate_Triangle_Area.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 06. 6. Calculate Triangle Area\obj\Debug\Task_06._6.Calculate_Triangle_Area.pdb

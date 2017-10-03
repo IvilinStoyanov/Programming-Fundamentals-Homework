@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 07. Math Power\bin\Debug\Task_07.Math_Power.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 07. Math Power\bin\Debug\Task_07.Math_Power.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 07. Math Power\bin\Debug\Task_07.Math_Power.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 07. Math Power\obj\Debug\Task_07.Math_Power.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 07. Math Power\obj\Debug\Task_07.Math_Power.pdb

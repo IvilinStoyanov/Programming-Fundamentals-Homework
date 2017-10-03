@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 08. Greater of Two Values\bin\Debug\Task_08.Greater_of_Two_Values.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 08. Greater of Two Values\bin\Debug\Task_08.Greater_of_Two_Values.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 08. Greater of Two Values\bin\Debug\Task_08.Greater_of_Two_Values.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 08. Greater of Two Values\obj\Debug\Task 08. Greater of Two Values.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 08. Greater of Two Values\obj\Debug\Task_08.Greater_of_Two_Values.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 08. Greater of Two Values\obj\Debug\Task_08.Greater_of_Two_Values.pdb

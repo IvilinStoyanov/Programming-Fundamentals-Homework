@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 05. Temperature Conversion\bin\Debug\Task_05.Temperature_Conversion.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 05. Temperature Conversion\bin\Debug\Task_05.Temperature_Conversion.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 05. Temperature Conversion\bin\Debug\Task_05.Temperature_Conversion.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 05. Temperature Conversion\obj\Debug\Task 05. Temperature Conversion.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 05. Temperature Conversion\obj\Debug\Task_05.Temperature_Conversion.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\METHODS. DEBUGGING AND TROUBLESHOOTING\Task 05. Temperature Conversion\obj\Debug\Task_05.Temperature_Conversion.pdb
