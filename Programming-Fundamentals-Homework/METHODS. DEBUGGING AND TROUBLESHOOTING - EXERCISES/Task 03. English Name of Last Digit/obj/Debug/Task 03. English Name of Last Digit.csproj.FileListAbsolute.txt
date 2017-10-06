@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 03. English Name of Last Digit\bin\Debug\Task_03.English_Name_of_Last_Digit.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 03. English Name of Last Digit\bin\Debug\Task_03.English_Name_of_Last_Digit.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 03. English Name of Last Digit\bin\Debug\Task_03.English_Name_of_Last_Digit.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 03. English Name of Last Digit\obj\Debug\Task 03. English Name of Last Digit.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 03. English Name of Last Digit\obj\Debug\Task_03.English_Name_of_Last_Digit.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 03. English Name of Last Digit\obj\Debug\Task_03.English_Name_of_Last_Digit.pdb

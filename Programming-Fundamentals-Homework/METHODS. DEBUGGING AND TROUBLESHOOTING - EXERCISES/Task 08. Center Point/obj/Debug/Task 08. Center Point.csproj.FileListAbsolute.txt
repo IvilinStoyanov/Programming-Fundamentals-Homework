@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 08. Center Point\bin\Debug\Task_08.Center_Point.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 08. Center Point\bin\Debug\Task_08.Center_Point.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 08. Center Point\bin\Debug\Task_08.Center_Point.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 08. Center Point\obj\Debug\Task_08.Center_Point.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 08. Center Point\obj\Debug\Task_08.Center_Point.pdb

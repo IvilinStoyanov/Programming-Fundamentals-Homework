@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 14. Factorial Trailing Zeroes\bin\Debug\Task_14.Factorial_Trailing_Zeroes.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 14. Factorial Trailing Zeroes\bin\Debug\Task_14.Factorial_Trailing_Zeroes.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 14. Factorial Trailing Zeroes\bin\Debug\Task_14.Factorial_Trailing_Zeroes.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 14. Factorial Trailing Zeroes\obj\Debug\Task_14.Factorial_Trailing_Zeroes.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 14. Factorial Trailing Zeroes\obj\Debug\Task_14.Factorial_Trailing_Zeroes.pdb

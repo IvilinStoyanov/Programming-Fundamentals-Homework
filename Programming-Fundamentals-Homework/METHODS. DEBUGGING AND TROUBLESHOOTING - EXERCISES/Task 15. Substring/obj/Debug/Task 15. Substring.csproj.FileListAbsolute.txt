@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 15. Substring\bin\Debug\Task_15.Substring.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 15. Substring\bin\Debug\Task_15.Substring.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 15. Substring\bin\Debug\Task_15.Substring.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 15. Substring\obj\Debug\Task_15.Substring.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 15. Substring\obj\Debug\Task_15.Substring.pdb

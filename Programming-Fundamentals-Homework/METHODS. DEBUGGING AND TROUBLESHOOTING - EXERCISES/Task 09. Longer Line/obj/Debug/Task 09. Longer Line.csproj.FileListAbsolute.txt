@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 09. Longer Line\bin\Debug\Task_09.Longer_Line.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 09. Longer Line\bin\Debug\Task_09.Longer_Line.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 09. Longer Line\bin\Debug\Task_09.Longer_Line.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 09. Longer Line\obj\Debug\Task_09.Longer_Line.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 09. Longer Line\obj\Debug\Task_09.Longer_Line.pdb

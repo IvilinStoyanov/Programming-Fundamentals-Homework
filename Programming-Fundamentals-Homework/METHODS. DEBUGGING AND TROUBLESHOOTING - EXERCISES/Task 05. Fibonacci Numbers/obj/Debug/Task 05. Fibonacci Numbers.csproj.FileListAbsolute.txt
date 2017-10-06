@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 05. Fibonacci Numbers\obj\Debug\Task 05. Fibonacci Numbers.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 05. Fibonacci Numbers\bin\Debug\Task_05.Fibonacci_Numbers.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 05. Fibonacci Numbers\bin\Debug\Task_05.Fibonacci_Numbers.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 05. Fibonacci Numbers\bin\Debug\Task_05.Fibonacci_Numbers.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 05. Fibonacci Numbers\obj\Debug\Task_05.Fibonacci_Numbers.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 05. Fibonacci Numbers\obj\Debug\Task_05.Fibonacci_Numbers.pdb

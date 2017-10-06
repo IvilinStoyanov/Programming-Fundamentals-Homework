@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 06. Prime Checker\bin\Debug\Task_06.Prime_Checker.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 06. Prime Checker\bin\Debug\Task_06.Prime_Checker.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 06. Prime Checker\bin\Debug\Task_06.Prime_Checker.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 06. Prime Checker\obj\Debug\Task_06.Prime_Checker.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 06. Prime Checker\obj\Debug\Task_06.Prime_Checker.pdb

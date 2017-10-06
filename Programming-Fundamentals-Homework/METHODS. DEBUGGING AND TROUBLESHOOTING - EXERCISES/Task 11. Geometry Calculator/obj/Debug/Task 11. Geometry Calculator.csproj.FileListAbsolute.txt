@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 11. Geometry Calculator\bin\Debug\Task_11.Geometry_Calculator.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 11. Geometry Calculator\bin\Debug\Task_11.Geometry_Calculator.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 11. Geometry Calculator\bin\Debug\Task_11.Geometry_Calculator.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 11. Geometry Calculator\obj\Debug\Task 11. Geometry Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 11. Geometry Calculator\obj\Debug\Task_11.Geometry_Calculator.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 11. Geometry Calculator\obj\Debug\Task_11.Geometry_Calculator.pdb

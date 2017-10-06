@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 04. Numbers in Reversed Order\bin\Debug\Task_04.Numbers_in_Reversed_Order.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 04. Numbers in Reversed Order\bin\Debug\Task_04.Numbers_in_Reversed_Order.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 04. Numbers in Reversed Order\bin\Debug\Task_04.Numbers_in_Reversed_Order.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 04. Numbers in Reversed Order\obj\Debug\Task_04.Numbers_in_Reversed_Order.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 04. Numbers in Reversed Order\obj\Debug\Task_04.Numbers_in_Reversed_Order.pdb

@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 02. Max Method\bin\Debug\Task_02.Max_Method.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 02. Max Method\bin\Debug\Task_02.Max_Method.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 02. Max Method\bin\Debug\Task_02.Max_Method.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 02. Max Method\obj\Debug\Task_02.Max_Method.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 02. Max Method\obj\Debug\Task_02.Max_Method.pdb

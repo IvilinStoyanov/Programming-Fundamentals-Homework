@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 13. Factorial\bin\Debug\Task_13.Factorial.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 13. Factorial\bin\Debug\Task_13.Factorial.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 13. Factorial\bin\Debug\Task_13.Factorial.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 13. Factorial\obj\Debug\Task 13. Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 13. Factorial\obj\Debug\Task_13.Factorial.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 13. Factorial\obj\Debug\Task_13.Factorial.pdb

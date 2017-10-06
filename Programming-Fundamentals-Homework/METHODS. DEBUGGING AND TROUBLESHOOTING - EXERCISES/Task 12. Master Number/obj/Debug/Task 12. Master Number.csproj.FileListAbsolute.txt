@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 12. Master Number\bin\Debug\Task_12.Master_Number.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 12. Master Number\bin\Debug\Task_12.Master_Number.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 12. Master Number\bin\Debug\Task_12.Master_Number.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 12. Master Number\obj\Debug\Task_12.Master_Number.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 12. Master Number\obj\Debug\Task_12.Master_Number.pdb

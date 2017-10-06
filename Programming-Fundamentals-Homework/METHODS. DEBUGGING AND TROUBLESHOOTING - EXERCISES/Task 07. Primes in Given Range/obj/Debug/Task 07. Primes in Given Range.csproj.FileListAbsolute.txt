@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 07. Primes in Given Range\bin\Debug\Task_07.Primes_in_Given_Range.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 07. Primes in Given Range\bin\Debug\Task_07.Primes_in_Given_Range.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 07. Primes in Given Range\bin\Debug\Task_07.Primes_in_Given_Range.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 07. Primes in Given Range\obj\Debug\Task_07.Primes_in_Given_Range.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 07. Primes in Given Range\obj\Debug\Task_07.Primes_in_Given_Range.pdb

@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 01.  Hello, Name\bin\Debug\Task_01.Hello__Name.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 01.  Hello, Name\bin\Debug\Task_01.Hello__Name.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 01.  Hello, Name\bin\Debug\Task_01.Hello__Name.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 01.  Hello, Name\obj\Debug\Task 01.  Hello, Name.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 01.  Hello, Name\obj\Debug\Task_01.Hello__Name.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Methods. Debugging. Troubleshooting Code\Task 01.  Hello, Name\obj\Debug\Task_01.Hello__Name.pdb
