@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 05. Compare Char Arrays\bin\Debug\Task_05.Compare_Char_Arrays.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 05. Compare Char Arrays\bin\Debug\Task_05.Compare_Char_Arrays.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 05. Compare Char Arrays\bin\Debug\Task_05.Compare_Char_Arrays.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 05. Compare Char Arrays\obj\Debug\Task 05. Compare Char Arrays.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 05. Compare Char Arrays\obj\Debug\Task_05.Compare_Char_Arrays.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 05. Compare Char Arrays\obj\Debug\Task_05.Compare_Char_Arrays.pdb

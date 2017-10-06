@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 09. Index of Letters\bin\Debug\Task_09.Index_of_Letters.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 09. Index of Letters\bin\Debug\Task_09.Index_of_Letters.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 09. Index of Letters\bin\Debug\Task_09.Index_of_Letters.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 09. Index of Letters\obj\Debug\Task_09.Index_of_Letters.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 09. Index of Letters\obj\Debug\Task_09.Index_of_Letters.pdb

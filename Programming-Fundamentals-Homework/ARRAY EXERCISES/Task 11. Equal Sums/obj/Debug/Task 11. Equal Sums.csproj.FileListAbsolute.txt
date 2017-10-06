@@ -1,0 +1,5 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 11. Equal Sums\bin\Debug\Task_11.Equal_Sums.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 11. Equal Sums\bin\Debug\Task_11.Equal_Sums.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 11. Equal Sums\bin\Debug\Task_11.Equal_Sums.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 11. Equal Sums\obj\Debug\Task_11.Equal_Sums.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 11. Equal Sums\obj\Debug\Task_11.Equal_Sums.pdb
