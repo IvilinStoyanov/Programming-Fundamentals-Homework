@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TicketForMatch\bin\Debug\TicketForMatch.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TicketForMatch\bin\Debug\TicketForMatch.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TicketForMatch\bin\Debug\TicketForMatch.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TicketForMatch\obj\Debug\TicketForMatch.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TicketForMatch\obj\Debug\TicketForMatch.pdb

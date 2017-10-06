@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\STOPMain\bin\Debug\STOPMain.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\STOPMain\bin\Debug\STOPMain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\STOPMain\bin\Debug\STOPMain.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\STOPMain\obj\Debug\STOPMain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\STOPMain\obj\Debug\STOPMain.pdb

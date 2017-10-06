@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bricks\bin\Debug\Bricks.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bricks\bin\Debug\Bricks.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bricks\bin\Debug\Bricks.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bricks\obj\Debug\Bricks.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bricks\obj\Debug\Bricks.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bricks\obj\Debug\Bricks.pdb

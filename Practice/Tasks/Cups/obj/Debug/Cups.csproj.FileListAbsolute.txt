@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Cups\bin\Debug\Cups.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Cups\bin\Debug\Cups.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Cups\bin\Debug\Cups.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Cups\obj\Debug\Cups.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Cups\obj\Debug\Cups.pdb

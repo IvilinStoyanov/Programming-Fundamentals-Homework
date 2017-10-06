@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\StopingNumber\bin\Debug\StopingNumber.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\StopingNumber\bin\Debug\StopingNumber.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\StopingNumber\bin\Debug\StopingNumber.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\StopingNumber\obj\Debug\StopingNumber.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\StopingNumber\obj\Debug\StopingNumber.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\StopingNumber\obj\Debug\StopingNumber.pdb

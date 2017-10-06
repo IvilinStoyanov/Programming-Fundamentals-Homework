@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

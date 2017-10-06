@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Dot\bin\Debug\Dot.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Dot\bin\Debug\Dot.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Dot\bin\Debug\Dot.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Dot\obj\Debug\Dot.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Dot\obj\Debug\Dot.pdb

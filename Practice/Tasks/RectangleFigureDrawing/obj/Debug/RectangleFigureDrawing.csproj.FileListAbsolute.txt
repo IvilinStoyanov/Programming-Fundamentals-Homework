@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RectangleFigureDrawing\bin\Debug\RectangleFigureDrawing.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RectangleFigureDrawing\bin\Debug\RectangleFigureDrawing.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RectangleFigureDrawing\bin\Debug\RectangleFigureDrawing.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RectangleFigureDrawing\obj\Debug\RectangleFigureDrawing.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RectangleFigureDrawing\obj\Debug\RectangleFigureDrawing.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RectangleFigureDrawing\obj\Debug\RectangleFigureDrawing.csprojResolveAssemblyReference.cache

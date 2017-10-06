@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumOfTwoNumber\bin\Debug\SumOfTwoNumber.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumOfTwoNumber\bin\Debug\SumOfTwoNumber.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumOfTwoNumber\bin\Debug\SumOfTwoNumber.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumOfTwoNumber\obj\Debug\SumOfTwoNumber.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumOfTwoNumber\obj\Debug\SumOfTwoNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePainting\bin\Debug\HousePainting.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePainting\bin\Debug\HousePainting.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePainting\bin\Debug\HousePainting.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePainting\obj\Debug\HousePainting.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePainting\obj\Debug\HousePainting.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePainting\obj\Debug\HousePainting.pdb

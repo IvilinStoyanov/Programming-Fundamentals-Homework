@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SoftUniLogo\bin\Debug\SoftUniLogo.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SoftUniLogo\bin\Debug\SoftUniLogo.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SoftUniLogo\bin\Debug\SoftUniLogo.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SoftUniLogo\obj\Debug\SoftUniLogo.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SoftUniLogo\obj\Debug\SoftUniLogo.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SoftUniLogo\obj\Debug\SoftUniLogo.pdb

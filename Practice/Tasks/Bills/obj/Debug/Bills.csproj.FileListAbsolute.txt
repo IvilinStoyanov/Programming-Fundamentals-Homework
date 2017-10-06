@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bills\bin\Debug\Bills.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bills\bin\Debug\Bills.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bills\bin\Debug\Bills.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bills\obj\Debug\Bills.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bills\obj\Debug\Bills.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Bills\obj\Debug\Bills.pdb

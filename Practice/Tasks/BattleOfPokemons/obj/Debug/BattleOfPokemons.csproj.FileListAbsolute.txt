@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BattleOfPokemons\bin\Debug\BattleOfPokemons.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BattleOfPokemons\bin\Debug\BattleOfPokemons.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BattleOfPokemons\bin\Debug\BattleOfPokemons.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BattleOfPokemons\obj\Debug\BattleOfPokemons.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BattleOfPokemons\obj\Debug\BattleOfPokemons.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BattleOfPokemons\obj\Debug\BattleOfPokemons.pdb

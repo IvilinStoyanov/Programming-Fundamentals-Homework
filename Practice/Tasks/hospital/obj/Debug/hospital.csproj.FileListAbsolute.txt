@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\hospital\bin\Debug\hospital.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\hospital\bin\Debug\hospital.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\hospital\bin\Debug\hospital.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\hospital\obj\Debug\hospital.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\hospital\obj\Debug\hospital.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\hospital\obj\Debug\hospital.pdb

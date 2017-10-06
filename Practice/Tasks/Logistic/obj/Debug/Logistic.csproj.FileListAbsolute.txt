@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Logistic\bin\Debug\Logistic.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Logistic\bin\Debug\Logistic.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Logistic\bin\Debug\Logistic.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Logistic\obj\Debug\Logistic.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Logistic\obj\Debug\Logistic.pdb

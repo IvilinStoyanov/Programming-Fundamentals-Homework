@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\AandBPoint\bin\Debug\AandBPoint.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\AandBPoint\bin\Debug\AandBPoint.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\AandBPoint\bin\Debug\AandBPoint.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\AandBPoint\obj\Debug\AandBPoint.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\AandBPoint\obj\Debug\AandBPoint.pdb

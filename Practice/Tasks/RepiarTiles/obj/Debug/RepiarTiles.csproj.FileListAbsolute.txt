@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepiarTiles\bin\Debug\RepiarTiles.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepiarTiles\bin\Debug\RepiarTiles.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepiarTiles\bin\Debug\RepiarTiles.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepiarTiles\obj\Debug\RepiarTiles.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepiarTiles\obj\Debug\RepiarTiles.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepiarTiles\obj\Debug\RepiarTiles.pdb

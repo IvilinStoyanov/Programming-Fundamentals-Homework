@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepairTiles\bin\Debug\RepairTiles.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepairTiles\bin\Debug\RepairTiles.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepairTiles\bin\Debug\RepairTiles.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepairTiles\obj\Debug\RepairTiles.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepairTiles\obj\Debug\RepairTiles.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RepairTiles\obj\Debug\RepairTiles.pdb

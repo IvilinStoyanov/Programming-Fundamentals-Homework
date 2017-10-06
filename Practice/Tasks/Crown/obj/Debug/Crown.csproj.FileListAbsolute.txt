@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Crown\bin\Debug\Crown.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Crown\bin\Debug\Crown.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Crown\bin\Debug\Crown.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Crown\obj\Debug\Crown.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Crown\obj\Debug\Crown.pdb

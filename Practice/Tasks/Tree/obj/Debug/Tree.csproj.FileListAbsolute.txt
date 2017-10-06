@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Tree\bin\Debug\Tree.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Tree\bin\Debug\Tree.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Tree\bin\Debug\Tree.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Tree\obj\Debug\Tree.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Tree\obj\Debug\Tree.pdb

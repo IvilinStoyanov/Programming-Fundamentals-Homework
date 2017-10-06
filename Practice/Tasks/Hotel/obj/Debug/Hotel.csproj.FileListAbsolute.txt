@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Hotel\bin\Debug\Hotel.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Hotel\obj\Debug\Hotel.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Hotel\obj\Debug\Hotel.pdb

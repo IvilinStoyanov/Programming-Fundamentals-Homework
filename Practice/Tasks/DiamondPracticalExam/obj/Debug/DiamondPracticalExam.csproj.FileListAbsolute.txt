@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DiamondPracticalExam\bin\Debug\DiamondPracticalExam.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DiamondPracticalExam\bin\Debug\DiamondPracticalExam.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DiamondPracticalExam\bin\Debug\DiamondPracticalExam.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DiamondPracticalExam\obj\Debug\DiamondPracticalExam.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DiamondPracticalExam\obj\Debug\DiamondPracticalExam.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DiamondPracticalExam\obj\Debug\DiamondPracticalExam.pdb

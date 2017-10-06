@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OnTimeForExamAgain\bin\Debug\OnTimeForExamAgain.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OnTimeForExamAgain\bin\Debug\OnTimeForExamAgain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OnTimeForExamAgain\bin\Debug\OnTimeForExamAgain.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OnTimeForExamAgain\obj\Debug\OnTimeForExamAgain.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OnTimeForExamAgain\obj\Debug\OnTimeForExamAgain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OnTimeForExamAgain\obj\Debug\OnTimeForExamAgain.pdb

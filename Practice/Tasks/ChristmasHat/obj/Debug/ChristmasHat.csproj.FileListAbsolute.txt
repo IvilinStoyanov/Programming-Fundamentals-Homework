@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ChristmasHat\bin\Debug\ChristmasHat.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ChristmasHat\bin\Debug\ChristmasHat.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ChristmasHat\bin\Debug\ChristmasHat.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ChristmasHat\obj\Debug\ChristmasHat.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ChristmasHat\obj\Debug\ChristmasHat.pdb

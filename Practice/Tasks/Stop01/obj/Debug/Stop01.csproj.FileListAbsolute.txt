@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Stop01\bin\Debug\Stop01.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Stop01\bin\Debug\Stop01.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Stop01\bin\Debug\Stop01.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Stop01\obj\Debug\Stop01.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Stop01\obj\Debug\Stop01.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Stop01\obj\Debug\Stop01.pdb

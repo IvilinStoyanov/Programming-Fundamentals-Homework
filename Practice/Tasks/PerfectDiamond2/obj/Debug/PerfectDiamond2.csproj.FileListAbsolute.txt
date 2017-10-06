@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PerfectDiamond2\bin\Debug\PerfectDiamond2.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PerfectDiamond2\bin\Debug\PerfectDiamond2.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PerfectDiamond2\bin\Debug\PerfectDiamond2.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PerfectDiamond2\obj\Debug\PerfectDiamond2.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PerfectDiamond2\obj\Debug\PerfectDiamond2.pdb

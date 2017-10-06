@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fishland\bin\Debug\Fishland.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fishland\bin\Debug\Fishland.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fishland\bin\Debug\Fishland.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fishland\obj\Debug\Fishland.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fishland\obj\Debug\Fishland.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fishland\obj\Debug\Fishland.pdb

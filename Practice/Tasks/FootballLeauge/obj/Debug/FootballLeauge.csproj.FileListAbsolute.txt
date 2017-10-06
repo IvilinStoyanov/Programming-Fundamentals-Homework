@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\FootballLeauge\bin\Debug\FootballLeauge.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\FootballLeauge\bin\Debug\FootballLeauge.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\FootballLeauge\bin\Debug\FootballLeauge.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\FootballLeauge\obj\Debug\FootballLeauge.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\FootballLeauge\obj\Debug\FootballLeauge.pdb

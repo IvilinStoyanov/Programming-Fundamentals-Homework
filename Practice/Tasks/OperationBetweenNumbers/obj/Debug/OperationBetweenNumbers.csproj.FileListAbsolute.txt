@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OperationBetweenNumbers\bin\Debug\OperationBetweenNumbers.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OperationBetweenNumbers\bin\Debug\OperationBetweenNumbers.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OperationBetweenNumbers\bin\Debug\OperationBetweenNumbers.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OperationBetweenNumbers\obj\Debug\OperationBetweenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OperationBetweenNumbers\obj\Debug\OperationBetweenNumbers.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\OperationBetweenNumbers\obj\Debug\OperationBetweenNumbers.pdb

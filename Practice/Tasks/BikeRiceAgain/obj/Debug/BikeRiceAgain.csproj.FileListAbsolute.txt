@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BikeRiceAgain\bin\Debug\BikeRiceAgain.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BikeRiceAgain\bin\Debug\BikeRiceAgain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BikeRiceAgain\bin\Debug\BikeRiceAgain.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BikeRiceAgain\obj\Debug\BikeRiceAgain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BikeRiceAgain\obj\Debug\BikeRiceAgain.pdb

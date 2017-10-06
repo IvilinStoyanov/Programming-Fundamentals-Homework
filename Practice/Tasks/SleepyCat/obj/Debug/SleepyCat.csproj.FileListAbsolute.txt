@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SleepyCat\bin\Debug\SleepyCat.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SleepyCat\bin\Debug\SleepyCat.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SleepyCat\bin\Debug\SleepyCat.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SleepyCat\obj\Debug\SleepyCat.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SleepyCat\obj\Debug\SleepyCat.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SleepyCat\obj\Debug\SleepyCat.pdb

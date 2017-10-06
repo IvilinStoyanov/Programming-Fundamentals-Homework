@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Triangle\bin\Debug\Triangle.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Triangle\obj\Debug\Triangle.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Triangle\obj\Debug\Triangle.pdb

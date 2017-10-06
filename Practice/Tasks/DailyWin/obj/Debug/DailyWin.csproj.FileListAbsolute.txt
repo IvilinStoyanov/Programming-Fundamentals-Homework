@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DailyWin\bin\Debug\DailyWin.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DailyWin\bin\Debug\DailyWin.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DailyWin\bin\Debug\DailyWin.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DailyWin\obj\Debug\DailyWin.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DailyWin\obj\Debug\DailyWin.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DailyWin\obj\Debug\DailyWin.pdb

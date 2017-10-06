@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ToyShop\bin\Debug\ToyShop.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ToyShop\bin\Debug\ToyShop.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ToyShop\bin\Debug\ToyShop.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ToyShop\obj\Debug\ToyShop.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ToyShop\obj\Debug\ToyShop.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ToyShop\obj\Debug\ToyShop.pdb

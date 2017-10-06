@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PipesInPool\bin\Debug\PipesInPool.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PipesInPool\bin\Debug\PipesInPool.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PipesInPool\bin\Debug\PipesInPool.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PipesInPool\obj\Debug\PipesInPool.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PipesInPool\obj\Debug\PipesInPool.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PipesInPool\obj\Debug\PipesInPool.pdb

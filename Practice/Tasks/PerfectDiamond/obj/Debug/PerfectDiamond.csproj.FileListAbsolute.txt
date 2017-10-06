@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PerfectDiamond\bin\Debug\PerfectDiamond.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PerfectDiamond\bin\Debug\PerfectDiamond.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PerfectDiamond\bin\Debug\PerfectDiamond.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PerfectDiamond\obj\Debug\PerfectDiamond.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PerfectDiamond\obj\Debug\PerfectDiamond.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\PerfectDiamond\obj\Debug\PerfectDiamond.csprojResolveAssemblyReference.cache

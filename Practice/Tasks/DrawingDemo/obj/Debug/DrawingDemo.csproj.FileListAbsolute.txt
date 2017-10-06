@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DrawingDemo\bin\Debug\DrawingDemo.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DrawingDemo\bin\Debug\DrawingDemo.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DrawingDemo\bin\Debug\DrawingDemo.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DrawingDemo\obj\Debug\DrawingDemo.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DrawingDemo\obj\Debug\DrawingDemo.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DrawingDemo\obj\Debug\DrawingDemo.pdb

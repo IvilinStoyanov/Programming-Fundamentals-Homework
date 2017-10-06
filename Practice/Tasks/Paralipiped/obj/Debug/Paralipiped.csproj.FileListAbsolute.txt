@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Paralipiped\bin\Debug\Paralipiped.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Paralipiped\bin\Debug\Paralipiped.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Paralipiped\bin\Debug\Paralipiped.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Paralipiped\obj\Debug\Paralipiped.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Paralipiped\obj\Debug\Paralipiped.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Paralipiped\obj\Debug\Paralipiped.pdb

@@ -1,0 +1,6 @@
+c:\users\gigabyte\documents\visual studio 2017\Projects\Practice\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\gigabyte\documents\visual studio 2017\Projects\Practice\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Practice\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\gigabyte\documents\visual studio 2017\Projects\Practice\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\gigabyte\documents\visual studio 2017\Projects\Practice\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\gigabyte\documents\visual studio 2017\Projects\Practice\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

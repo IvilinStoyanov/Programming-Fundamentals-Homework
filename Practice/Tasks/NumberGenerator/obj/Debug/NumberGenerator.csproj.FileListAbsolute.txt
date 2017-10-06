@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\NumberGenerator\bin\Debug\NumberGenerator.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\NumberGenerator\bin\Debug\NumberGenerator.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\NumberGenerator\bin\Debug\NumberGenerator.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\NumberGenerator\obj\Debug\NumberGenerator.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\NumberGenerator\obj\Debug\NumberGenerator.pdb

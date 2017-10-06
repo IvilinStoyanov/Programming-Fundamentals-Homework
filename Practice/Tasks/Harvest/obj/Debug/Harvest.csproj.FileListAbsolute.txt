@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Harvest\bin\Debug\Harvest.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Harvest\bin\Debug\Harvest.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Harvest\bin\Debug\Harvest.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Harvest\obj\Debug\Harvest.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Harvest\obj\Debug\Harvest.pdb

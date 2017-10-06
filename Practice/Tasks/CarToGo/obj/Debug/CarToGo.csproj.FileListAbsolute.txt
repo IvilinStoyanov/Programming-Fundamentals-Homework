@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\CarToGo\bin\Debug\CarToGo.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\CarToGo\bin\Debug\CarToGo.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\CarToGo\bin\Debug\CarToGo.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\CarToGo\obj\Debug\CarToGo.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\CarToGo\obj\Debug\CarToGo.pdb

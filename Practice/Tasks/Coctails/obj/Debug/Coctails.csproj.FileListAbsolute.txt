@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Coctails\bin\Debug\Coctails.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Coctails\bin\Debug\Coctails.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Coctails\bin\Debug\Coctails.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Coctails\obj\Debug\Coctails.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Coctails\obj\Debug\Coctails.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Coctails\obj\Debug\Coctails.pdb

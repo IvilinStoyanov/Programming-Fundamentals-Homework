@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumofTwoNumbers\bin\Debug\SumofTwoNumbers.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumofTwoNumbers\bin\Debug\SumofTwoNumbers.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumofTwoNumbers\bin\Debug\SumofTwoNumbers.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumofTwoNumbers\obj\Debug\SumofTwoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumofTwoNumbers\obj\Debug\SumofTwoNumbers.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumofTwoNumbers\obj\Debug\SumofTwoNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ControlNumber\bin\Debug\ControlNumber.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ControlNumber\bin\Debug\ControlNumber.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ControlNumber\bin\Debug\ControlNumber.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ControlNumber\obj\Debug\ControlNumber.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ControlNumber\obj\Debug\ControlNumber.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ControlNumber\obj\Debug\ControlNumber.pdb

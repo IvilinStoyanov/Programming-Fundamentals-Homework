@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Butterfly\bin\Debug\Butterfly.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Butterfly\bin\Debug\Butterfly.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Butterfly\bin\Debug\Butterfly.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Butterfly\obj\Debug\Butterfly.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Butterfly\obj\Debug\Butterfly.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache

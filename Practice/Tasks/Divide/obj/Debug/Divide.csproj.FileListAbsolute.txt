@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Divide\bin\Debug\Divide.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Divide\bin\Debug\Divide.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Divide\bin\Debug\Divide.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Divide\obj\Debug\Divide.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Divide\obj\Debug\Divide.pdb

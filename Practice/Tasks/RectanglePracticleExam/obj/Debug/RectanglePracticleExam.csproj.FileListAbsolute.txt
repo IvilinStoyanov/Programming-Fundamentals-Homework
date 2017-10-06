@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RectanglePracticleExam\bin\Debug\RectanglePracticleExam.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RectanglePracticleExam\bin\Debug\RectanglePracticleExam.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RectanglePracticleExam\bin\Debug\RectanglePracticleExam.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RectanglePracticleExam\obj\Debug\RectanglePracticleExam.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\RectanglePracticleExam\obj\Debug\RectanglePracticleExam.pdb

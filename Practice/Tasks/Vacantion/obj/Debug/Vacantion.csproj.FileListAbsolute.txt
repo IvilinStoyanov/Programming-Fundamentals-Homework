@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Vacantion\bin\Debug\Vacantion.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Vacantion\bin\Debug\Vacantion.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Vacantion\bin\Debug\Vacantion.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Vacantion\obj\Debug\Vacantion.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Vacantion\obj\Debug\Vacantion.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Vacantion\obj\Debug\Vacantion.pdb

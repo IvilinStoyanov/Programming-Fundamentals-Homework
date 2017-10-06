@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GrowingElements\bin\Debug\GrowingElements.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GrowingElements\bin\Debug\GrowingElements.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GrowingElements\bin\Debug\GrowingElements.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GrowingElements\obj\Debug\GrowingElements.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GrowingElements\obj\Debug\GrowingElements.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GrowingElements\obj\Debug\GrowingElements.csprojResolveAssemblyReference.cache

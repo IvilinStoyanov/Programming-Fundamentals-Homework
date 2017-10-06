@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\LetterCombination\bin\Debug\LetterCombination.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\LetterCombination\bin\Debug\LetterCombination.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\LetterCombination\bin\Debug\LetterCombination.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\LetterCombination\obj\Debug\LetterCombination.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\LetterCombination\obj\Debug\LetterCombination.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\LetterCombination\obj\Debug\LetterCombination.pdb

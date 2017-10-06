@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TruckDrive\bin\Debug\TruckDrive.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TruckDrive\bin\Debug\TruckDrive.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TruckDrive\bin\Debug\TruckDrive.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TruckDrive\obj\Debug\TruckDrive.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TruckDrive\obj\Debug\TruckDrive.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TruckDrive\obj\Debug\TruckDrive.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ControlNumberAgain\bin\Debug\ControlNumberAgain.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ControlNumberAgain\bin\Debug\ControlNumberAgain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ControlNumberAgain\bin\Debug\ControlNumberAgain.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ControlNumberAgain\obj\Debug\ControlNumberAgain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ControlNumberAgain\obj\Debug\ControlNumberAgain.pdb

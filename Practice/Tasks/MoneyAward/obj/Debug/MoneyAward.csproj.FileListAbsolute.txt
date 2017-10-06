@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\MoneyAward\bin\Debug\MoneyAward.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\MoneyAward\bin\Debug\MoneyAward.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\MoneyAward\bin\Debug\MoneyAward.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\MoneyAward\obj\Debug\MoneyAward.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\MoneyAward\obj\Debug\MoneyAward.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\MoneyAward\obj\Debug\MoneyAward.pdb

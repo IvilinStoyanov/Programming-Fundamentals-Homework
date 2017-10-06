@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Journey\bin\Debug\Journey.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Journey\bin\Debug\Journey.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Journey\bin\Debug\Journey.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Journey\obj\Debug\Journey.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Journey\obj\Debug\Journey.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Journey\obj\Debug\Journey.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePrice\bin\Debug\HousePrice.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePrice\bin\Debug\HousePrice.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePrice\bin\Debug\HousePrice.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePrice\obj\Debug\HousePrice.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePrice\obj\Debug\HousePrice.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\HousePrice\obj\Debug\HousePrice.pdb

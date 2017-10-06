@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TriangleArea2D\bin\Debug\TriangleArea2D.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TriangleArea2D\bin\Debug\TriangleArea2D.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TriangleArea2D\bin\Debug\TriangleArea2D.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TriangleArea2D\obj\Debug\TriangleArea2D.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TriangleArea2D\obj\Debug\TriangleArea2D.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\TriangleArea2D\obj\Debug\TriangleArea2D.pdb

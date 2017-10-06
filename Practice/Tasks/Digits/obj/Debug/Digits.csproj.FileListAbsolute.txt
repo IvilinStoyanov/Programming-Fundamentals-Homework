@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Digits\obj\Debug\Digits.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Digits\bin\Debug\Digits.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Digits\bin\Debug\Digits.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Digits\bin\Debug\Digits.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Digits\obj\Debug\Digits.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Digits\obj\Debug\Digits.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DatePlus5days\obj\Debug\DatePlus5days.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DatePlus5days\bin\Debug\DatePlus5days.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DatePlus5days\bin\Debug\DatePlus5days.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DatePlus5days\bin\Debug\DatePlus5days.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DatePlus5days\obj\Debug\DatePlus5days.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\DatePlus5days\obj\Debug\DatePlus5days.pdb

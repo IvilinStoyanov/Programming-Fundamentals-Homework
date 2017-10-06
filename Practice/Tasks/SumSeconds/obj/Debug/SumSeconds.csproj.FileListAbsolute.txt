@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumSeconds\bin\Debug\SumSeconds.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumSeconds\bin\Debug\SumSeconds.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumSeconds\bin\Debug\SumSeconds.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumSeconds\obj\Debug\SumSeconds.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumSeconds\obj\Debug\SumSeconds.pdb

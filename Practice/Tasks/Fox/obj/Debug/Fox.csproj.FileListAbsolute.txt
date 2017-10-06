@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fox\bin\Debug\Fox.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fox\bin\Debug\Fox.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fox\bin\Debug\Fox.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fox\obj\Debug\Fox.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fox\obj\Debug\Fox.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Fox\obj\Debug\Fox.pdb

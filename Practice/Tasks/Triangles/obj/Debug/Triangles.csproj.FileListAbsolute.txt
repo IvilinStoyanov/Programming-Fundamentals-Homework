@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Triangles\bin\Debug\Triangles.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Triangles\bin\Debug\Triangles.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Triangles\bin\Debug\Triangles.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Triangles\obj\Debug\Triangles.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Triangles\obj\Debug\Triangles.pdb

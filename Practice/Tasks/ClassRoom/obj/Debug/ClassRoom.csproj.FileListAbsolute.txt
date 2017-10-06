@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ClassRoom\bin\Debug\ClassRoom.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ClassRoom\bin\Debug\ClassRoom.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ClassRoom\bin\Debug\ClassRoom.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ClassRoom\obj\Debug\ClassRoom.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ClassRoom\obj\Debug\ClassRoom.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ClassRoom\obj\Debug\ClassRoom.pdb

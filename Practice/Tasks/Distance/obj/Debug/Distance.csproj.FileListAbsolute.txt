@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Distance\bin\Debug\Distance.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Distance\bin\Debug\Distance.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Distance\bin\Debug\Distance.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Distance\obj\Debug\Distance.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Distance\obj\Debug\Distance.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Distance\obj\Debug\Distance.pdb

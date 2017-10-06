@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumOrMultiplication\bin\Debug\SumOrMultiplication.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumOrMultiplication\bin\Debug\SumOrMultiplication.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumOrMultiplication\bin\Debug\SumOrMultiplication.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumOrMultiplication\obj\Debug\SumOrMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumOrMultiplication\obj\Debug\SumOrMultiplication.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SumOrMultiplication\obj\Debug\SumOrMultiplication.pdb

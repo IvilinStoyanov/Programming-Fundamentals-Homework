@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\CharityCampain\bin\Debug\CharityCampain.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\CharityCampain\bin\Debug\CharityCampain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\CharityCampain\bin\Debug\CharityCampain.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\CharityCampain\obj\Debug\CharityCampain.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\CharityCampain\obj\Debug\CharityCampain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\CharityCampain\obj\Debug\CharityCampain.pdb

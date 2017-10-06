@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GeneratorOfRectangles\bin\Debug\GeneratorOfRectangles.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GeneratorOfRectangles\bin\Debug\GeneratorOfRectangles.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GeneratorOfRectangles\bin\Debug\GeneratorOfRectangles.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GeneratorOfRectangles\obj\Debug\GeneratorOfRectangles.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GeneratorOfRectangles\obj\Debug\GeneratorOfRectangles.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GeneratorOfRectangles\obj\Debug\GeneratorOfRectangles.pdb

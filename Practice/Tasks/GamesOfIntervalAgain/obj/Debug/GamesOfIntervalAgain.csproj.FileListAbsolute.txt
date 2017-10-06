@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GamesOfIntervalAgain\bin\Debug\GamesOfIntervalAgain.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GamesOfIntervalAgain\bin\Debug\GamesOfIntervalAgain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GamesOfIntervalAgain\bin\Debug\GamesOfIntervalAgain.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GamesOfIntervalAgain\obj\Debug\GamesOfIntervalAgain.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GamesOfIntervalAgain\obj\Debug\GamesOfIntervalAgain.pdb

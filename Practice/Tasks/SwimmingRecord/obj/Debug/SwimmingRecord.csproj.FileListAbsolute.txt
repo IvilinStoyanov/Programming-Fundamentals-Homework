@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SwimmingRecord\bin\Debug\SwimmingRecord.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SwimmingRecord\bin\Debug\SwimmingRecord.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SwimmingRecord\bin\Debug\SwimmingRecord.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SwimmingRecord\obj\Debug\SwimmingRecord.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SwimmingRecord\obj\Debug\SwimmingRecord.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\SwimmingRecord\obj\Debug\SwimmingRecord.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\MaxCombination\bin\Debug\MaxCombination.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\MaxCombination\bin\Debug\MaxCombination.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\MaxCombination\bin\Debug\MaxCombination.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\MaxCombination\obj\Debug\MaxCombination.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\MaxCombination\obj\Debug\MaxCombination.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BikeRace\bin\Debug\BikeRace.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BikeRace\bin\Debug\BikeRace.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BikeRace\bin\Debug\BikeRace.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BikeRace\obj\Debug\BikeRace.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\BikeRace\obj\Debug\BikeRace.pdb

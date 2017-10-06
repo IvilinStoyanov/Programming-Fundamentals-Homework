@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Pets\bin\Debug\Pets.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Pets\bin\Debug\Pets.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Pets\bin\Debug\Pets.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Pets\obj\Debug\Pets.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Pets\obj\Debug\Pets.pdb

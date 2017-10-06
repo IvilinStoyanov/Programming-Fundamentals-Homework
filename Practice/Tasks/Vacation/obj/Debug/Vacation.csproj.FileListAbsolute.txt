@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Vacation\bin\Debug\Vacation.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Vacation\bin\Debug\Vacation.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Vacation\bin\Debug\Vacation.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Vacation\obj\Debug\Vacation.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Vacation\obj\Debug\Vacation.pdb

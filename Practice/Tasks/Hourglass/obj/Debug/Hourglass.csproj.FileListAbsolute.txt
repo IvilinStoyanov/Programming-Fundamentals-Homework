@@ -1,0 +1,5 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Hourglass\bin\Debug\Hourglass.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Hourglass\bin\Debug\Hourglass.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Hourglass\bin\Debug\Hourglass.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Hourglass\obj\Debug\Hourglass.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Hourglass\obj\Debug\Hourglass.pdb

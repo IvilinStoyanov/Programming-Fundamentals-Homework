@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Sums3Numbers\bin\Debug\Sums3Numbers.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Sums3Numbers\bin\Debug\Sums3Numbers.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Sums3Numbers\bin\Debug\Sums3Numbers.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Sums3Numbers\obj\Debug\Sums3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Sums3Numbers\obj\Debug\Sums3Numbers.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\Sums3Numbers\obj\Debug\Sums3Numbers.pdb

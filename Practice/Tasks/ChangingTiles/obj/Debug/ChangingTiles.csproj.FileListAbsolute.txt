@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ChangingTiles\bin\Debug\ChangingTiles.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ChangingTiles\bin\Debug\ChangingTiles.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ChangingTiles\bin\Debug\ChangingTiles.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ChangingTiles\obj\Debug\ChangingTiles.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ChangingTiles\obj\Debug\ChangingTiles.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\ChangingTiles\obj\Debug\ChangingTiles.pdb

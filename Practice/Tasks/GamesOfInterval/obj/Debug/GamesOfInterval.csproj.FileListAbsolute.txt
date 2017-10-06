@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GamesOfInterval\bin\Debug\GamesOfInterval.exe.config
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GamesOfInterval\bin\Debug\GamesOfInterval.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GamesOfInterval\bin\Debug\GamesOfInterval.pdb
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GamesOfInterval\obj\Debug\GamesOfInterval.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GamesOfInterval\obj\Debug\GamesOfInterval.exe
+C:\Users\Gigabyte\documents\visual studio 2017\Projects\Practice\GamesOfInterval\obj\Debug\GamesOfInterval.pdb
