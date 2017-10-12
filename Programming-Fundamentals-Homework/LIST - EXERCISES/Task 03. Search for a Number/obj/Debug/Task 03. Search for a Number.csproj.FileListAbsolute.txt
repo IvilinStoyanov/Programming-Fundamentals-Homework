@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 03. Search for a Number\bin\Debug\Task_03.Search_for_a_Number.exe.config
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 03. Search for a Number\bin\Debug\Task_03.Search_for_a_Number.exe
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 03. Search for a Number\bin\Debug\Task_03.Search_for_a_Number.pdb
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 03. Search for a Number\obj\Debug\Task 03. Search for a Number.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 03. Search for a Number\obj\Debug\Task 03. Search for a Number.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 03. Search for a Number\obj\Debug\Task_03.Search_for_a_Number.exe
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 03. Search for a Number\obj\Debug\Task_03.Search_for_a_Number.pdb

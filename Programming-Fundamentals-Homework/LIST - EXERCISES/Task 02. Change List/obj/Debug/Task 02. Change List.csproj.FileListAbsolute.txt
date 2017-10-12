@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 02. Change List\obj\Debug\Task 02. Change List.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 02. Change List\obj\Debug\Task 02. Change List.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 02. Change List\bin\Debug\Task_02.Change_List.exe.config
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 02. Change List\bin\Debug\Task_02.Change_List.exe
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 02. Change List\bin\Debug\Task_02.Change_List.pdb
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 02. Change List\obj\Debug\Task_02.Change_List.exe
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 02. Change List\obj\Debug\Task_02.Change_List.pdb

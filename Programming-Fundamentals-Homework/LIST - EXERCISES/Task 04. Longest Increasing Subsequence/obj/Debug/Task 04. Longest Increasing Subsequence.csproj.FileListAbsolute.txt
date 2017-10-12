@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 04. Longest Increasing Subsequence\bin\Debug\Task_04.Longest_Increasing_Subsequence.exe.config
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 04. Longest Increasing Subsequence\bin\Debug\Task_04.Longest_Increasing_Subsequence.exe
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 04. Longest Increasing Subsequence\bin\Debug\Task_04.Longest_Increasing_Subsequence.pdb
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 04. Longest Increasing Subsequence\obj\Debug\Task 04. Longest Increasing Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 04. Longest Increasing Subsequence\obj\Debug\Task 04. Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 04. Longest Increasing Subsequence\obj\Debug\Task_04.Longest_Increasing_Subsequence.exe
+C:\Users\Gigabyte\source\repos\Lists - Exercises\Task 04. Longest Increasing Subsequence\obj\Debug\Task_04.Longest_Increasing_Subsequence.pdb

@@ -3,3 +3,10 @@ c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 06.
 c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 06. Max Sequence of Equal Elements\bin\Debug\Task_06.Max_Sequence_of_Equal_Elements.pdb
 c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 06. Max Sequence of Equal Elements\obj\Debug\Task_06.Max_Sequence_of_Equal_Elements.exe
 c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 06. Max Sequence of Equal Elements\obj\Debug\Task_06.Max_Sequence_of_Equal_Elements.pdb
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 06. Max Sequence of Equal Elements\bin\Debug\Task_06.Max_Sequence_of_Equal_Elements.exe.config
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 06. Max Sequence of Equal Elements\bin\Debug\Task_06.Max_Sequence_of_Equal_Elements.exe
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 06. Max Sequence of Equal Elements\bin\Debug\Task_06.Max_Sequence_of_Equal_Elements.pdb
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 06. Max Sequence of Equal Elements\obj\Debug\Task 06. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 06. Max Sequence of Equal Elements\obj\Debug\Task 06. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 06. Max Sequence of Equal Elements\obj\Debug\Task_06.Max_Sequence_of_Equal_Elements.exe
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 06. Max Sequence of Equal Elements\obj\Debug\Task_06.Max_Sequence_of_Equal_Elements.pdb

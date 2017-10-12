@@ -4,3 +4,10 @@ c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 01.
 c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 01. Largest Common End\obj\Debug\Task 01. Largest Common End.csprojResolveAssemblyReference.cache
 c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 01. Largest Common End\obj\Debug\Task_01.Largest_Common_End.exe
 c:\users\gigabyte\documents\visual studio 2017\Projects\Array Exercises\Task 01. Largest Common End\obj\Debug\Task_01.Largest_Common_End.pdb
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 01. Largest Common End\bin\Debug\Task_01.Largest_Common_End.exe.config
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 01. Largest Common End\bin\Debug\Task_01.Largest_Common_End.exe
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 01. Largest Common End\bin\Debug\Task_01.Largest_Common_End.pdb
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 01. Largest Common End\obj\Debug\Task 01. Largest Common End.csprojResolveAssemblyReference.cache
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 01. Largest Common End\obj\Debug\Task 01. Largest Common End.csproj.CoreCompileInputs.cache
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 01. Largest Common End\obj\Debug\Task_01.Largest_Common_End.exe
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\ARRAY EXERCISES\Task 01. Largest Common End\obj\Debug\Task_01.Largest_Common_End.pdb

@@ -4,3 +4,10 @@ c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EX
 c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\Problem 1. Debit Card Number.csprojResolveAssemblyReference.cache
 c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.exe
 c:\users\gigabyte\documents\visual studio 2017\Projects\Csharp BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.pdb
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\C# BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe.config
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\C# BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.exe
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\C# BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\bin\Debug\Problem_1.Debit_Card_Number.pdb
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\C# BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\Problem 1. Debit Card Number.csprojResolveAssemblyReference.cache
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\C# BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\Problem 1. Debit Card Number.csproj.CoreCompileInputs.cache
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\C# BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.exe
+D:\GitHub\Software University\Software-University\Programming-Fundamentals-Homework\C# BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\Problem_1.Debit_Card_Number.pdb

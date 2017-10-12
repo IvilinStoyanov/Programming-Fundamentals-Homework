@@ -11,7 +11,7 @@ namespace Task_06.Max_Sequence_of_Equal_Elements
         static void Main(string[] args)
         {
             // input
-            int[] numbers = Console.ReadLine().Split(' ')
+            int[] numbers = Console.ReadLine().Split(new char[] { ' ' } , StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
 
@@ -21,7 +21,7 @@ namespace Task_06.Max_Sequence_of_Equal_Elements
         private static void FindLongestSequence(int[] array)
         {
             int start = 0;
-            int len = 1;
+            int counter = 1;
 
             int bestPosition = 0;
             int bestLen = 1;
@@ -30,22 +30,22 @@ namespace Task_06.Max_Sequence_of_Equal_Elements
             {
                 if (array[i] == array[i - 1])
                 {
-                    len++;
-                    if (len > bestLen)
+                    counter++;
+                    if (counter > bestLen)
                     {
-                        bestLen = len;
+                        bestLen = counter;
                         bestPosition = start;
                     }
                 }
                 else
                 {
-                    if (len > bestLen)
+                    if (counter > bestLen)
                     {
                         bestPosition = start;
-                        bestLen = len;
+                        bestLen = counter;
                     }
                     start = i;
-                    len = 1;
+                    counter = 1;
                 }
 
             }
