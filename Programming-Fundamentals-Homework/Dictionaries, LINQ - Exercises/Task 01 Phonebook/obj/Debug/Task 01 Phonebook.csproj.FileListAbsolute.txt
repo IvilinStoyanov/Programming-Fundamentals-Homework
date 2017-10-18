@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 01 Phonebook\bin\Debug\Task 01 Phonebook.exe.config
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 01 Phonebook\bin\Debug\Task 01 Phonebook.exe
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 01 Phonebook\bin\Debug\Task 01 Phonebook.pdb
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 01 Phonebook\obj\Debug\Task 01 Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 01 Phonebook\obj\Debug\Task 01 Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 01 Phonebook\obj\Debug\Task 01 Phonebook.exe
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 01 Phonebook\obj\Debug\Task 01 Phonebook.pdb

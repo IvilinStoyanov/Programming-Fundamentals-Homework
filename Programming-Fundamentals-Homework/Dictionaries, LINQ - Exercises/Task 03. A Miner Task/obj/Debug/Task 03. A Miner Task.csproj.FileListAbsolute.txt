@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 03. A Miner Task\bin\Debug\Task_03.A_Miner_Task.exe.config
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 03. A Miner Task\bin\Debug\Task_03.A_Miner_Task.exe
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 03. A Miner Task\bin\Debug\Task_03.A_Miner_Task.pdb
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 03. A Miner Task\obj\Debug\Task 03. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 03. A Miner Task\obj\Debug\Task_03.A_Miner_Task.exe
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 03. A Miner Task\obj\Debug\Task_03.A_Miner_Task.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 02. Phonebook Upgrade\bin\Debug\Task_02.Phonebook_Upgrade.exe.config
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 02. Phonebook Upgrade\bin\Debug\Task_02.Phonebook_Upgrade.exe
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 02. Phonebook Upgrade\bin\Debug\Task_02.Phonebook_Upgrade.pdb
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 02. Phonebook Upgrade\obj\Debug\Task 02. Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 02. Phonebook Upgrade\obj\Debug\Task_02.Phonebook_Upgrade.exe
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 02. Phonebook Upgrade\obj\Debug\Task_02.Phonebook_Upgrade.pdb

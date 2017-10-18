@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 06. User Logs\bin\Debug\Task_06.User_Logs.exe.config
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 06. User Logs\bin\Debug\Task_06.User_Logs.exe
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 06. User Logs\bin\Debug\Task_06.User_Logs.pdb
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 06. User Logs\obj\Debug\Task 06. User Logs.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 06. User Logs\obj\Debug\Task 06. User Logs.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 06. User Logs\obj\Debug\Task_06.User_Logs.exe
+C:\Users\Gigabyte\source\repos\Dictionaries, LINQ - Exercises\Task 06. User Logs\obj\Debug\Task_06.User_Logs.pdb
