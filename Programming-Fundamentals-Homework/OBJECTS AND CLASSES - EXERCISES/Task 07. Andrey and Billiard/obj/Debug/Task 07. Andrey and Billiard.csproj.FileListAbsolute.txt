@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 07. Andrey and Billiard\bin\Debug\Task_07.Andrey_and_Billiard.exe.config
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 07. Andrey and Billiard\bin\Debug\Task_07.Andrey_and_Billiard.exe
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 07. Andrey and Billiard\bin\Debug\Task_07.Andrey_and_Billiard.pdb
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 07. Andrey and Billiard\obj\Debug\Task 07. Andrey and Billiard.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 07. Andrey and Billiard\obj\Debug\Task_07.Andrey_and_Billiard.exe
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 07. Andrey and Billiard\obj\Debug\Task_07.Andrey_and_Billiard.pdb

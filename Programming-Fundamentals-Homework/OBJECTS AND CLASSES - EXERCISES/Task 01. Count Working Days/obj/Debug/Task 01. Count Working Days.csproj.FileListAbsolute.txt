@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 01. Count Working Days\bin\Debug\Task_01.Count_Working_Days.exe.config
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 01. Count Working Days\bin\Debug\Task_01.Count_Working_Days.exe
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 01. Count Working Days\bin\Debug\Task_01.Count_Working_Days.pdb
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 01. Count Working Days\obj\Debug\Task 01. Count Working Days.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 01. Count Working Days\obj\Debug\Task 01. Count Working Days.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 01. Count Working Days\obj\Debug\Task_01.Count_Working_Days.exe
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 01. Count Working Days\obj\Debug\Task_01.Count_Working_Days.pdb

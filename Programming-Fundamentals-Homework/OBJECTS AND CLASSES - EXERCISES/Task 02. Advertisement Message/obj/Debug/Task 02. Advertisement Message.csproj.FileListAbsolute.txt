@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 02. Advertisement Message\obj\Debug\Task 02. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 02. Advertisement Message\bin\Debug\Task_02.Advertisement_Message.exe.config
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 02. Advertisement Message\bin\Debug\Task_02.Advertisement_Message.exe
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 02. Advertisement Message\bin\Debug\Task_02.Advertisement_Message.pdb
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 02. Advertisement Message\obj\Debug\Task_02.Advertisement_Message.exe
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 02. Advertisement Message\obj\Debug\Task_02.Advertisement_Message.pdb

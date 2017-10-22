@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 03. Intersection of Circles\bin\Debug\Task_03.Intersection_of_Circles.exe.config
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 03. Intersection of Circles\bin\Debug\Task_03.Intersection_of_Circles.exe
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 03. Intersection of Circles\bin\Debug\Task_03.Intersection_of_Circles.pdb
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 03. Intersection of Circles\obj\Debug\Task 03. Intersection of Circles.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 03. Intersection of Circles\obj\Debug\Task 03. Intersection of Circles.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 03. Intersection of Circles\obj\Debug\Task_03.Intersection_of_Circles.exe
+C:\Users\Gigabyte\source\repos\Objects and Classes - Exercises\Task 03. Intersection of Circles\obj\Debug\Task_03.Intersection_of_Circles.pdb
