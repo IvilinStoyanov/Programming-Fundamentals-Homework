@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 08. Average Grades\bin\Debug\Task_08.Average_Grades.exe.config
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 08. Average Grades\bin\Debug\Task_08.Average_Grades.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 08. Average Grades\bin\Debug\Task_08.Average_Grades.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 08. Average Grades\obj\Debug\Task 08. Average Grades.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 08. Average Grades\obj\Debug\Task_08.Average_Grades.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 08. Average Grades\obj\Debug\Task_08.Average_Grades.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 08. Average Grades\obj\Debug\Task 08. Average Grades.csprojResolveAssemblyReference.cache

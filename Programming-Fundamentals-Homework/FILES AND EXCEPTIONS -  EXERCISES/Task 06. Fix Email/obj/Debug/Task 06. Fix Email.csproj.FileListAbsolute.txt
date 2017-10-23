@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 06. Fix Email\bin\Debug\Task_06.Fix_Email.exe.config
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 06. Fix Email\bin\Debug\Task_06.Fix_Email.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 06. Fix Email\bin\Debug\Task_06.Fix_Email.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 06. Fix Email\obj\Debug\Task 06. Fix Email.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 06. Fix Email\obj\Debug\Task_06.Fix_Email.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 06. Fix Email\obj\Debug\Task_06.Fix_Email.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 06. Fix Email\obj\Debug\Task 06. Fix Email.csprojResolveAssemblyReference.cache

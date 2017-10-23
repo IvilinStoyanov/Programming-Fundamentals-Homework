@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 02.  Index of Letters\bin\Debug\Task_02.Index_of_Letters.exe.config
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 02.  Index of Letters\bin\Debug\Task_02.Index_of_Letters.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 02.  Index of Letters\bin\Debug\Task_02.Index_of_Letters.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 02.  Index of Letters\obj\Debug\Task 02.  Index of Letters.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 02.  Index of Letters\obj\Debug\Task_02.Index_of_Letters.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 02.  Index of Letters\obj\Debug\Task_02.Index_of_Letters.pdb

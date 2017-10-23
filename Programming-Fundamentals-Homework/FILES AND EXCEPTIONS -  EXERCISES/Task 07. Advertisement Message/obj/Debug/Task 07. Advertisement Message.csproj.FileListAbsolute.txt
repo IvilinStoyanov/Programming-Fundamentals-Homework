@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 07. Advertisement Message\bin\Debug\Task_07.Advertisement_Message.exe.config
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 07. Advertisement Message\bin\Debug\Task_07.Advertisement_Message.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 07. Advertisement Message\bin\Debug\Task_07.Advertisement_Message.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 07. Advertisement Message\obj\Debug\Task 07. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 07. Advertisement Message\obj\Debug\Task_07.Advertisement_Message.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 07. Advertisement Message\obj\Debug\Task_07.Advertisement_Message.pdb

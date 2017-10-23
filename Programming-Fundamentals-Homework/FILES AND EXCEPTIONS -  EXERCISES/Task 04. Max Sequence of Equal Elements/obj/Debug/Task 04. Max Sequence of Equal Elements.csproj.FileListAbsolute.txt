@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 04. Max Sequence of Equal Elements\bin\Debug\Task_04.Max_Sequence_of_Equal_Elements.exe.config
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 04. Max Sequence of Equal Elements\bin\Debug\Task_04.Max_Sequence_of_Equal_Elements.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 04. Max Sequence of Equal Elements\bin\Debug\Task_04.Max_Sequence_of_Equal_Elements.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 04. Max Sequence of Equal Elements\obj\Debug\Task 04. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 04. Max Sequence of Equal Elements\obj\Debug\Task_04.Max_Sequence_of_Equal_Elements.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 04. Max Sequence of Equal Elements\obj\Debug\Task_04.Max_Sequence_of_Equal_Elements.pdb

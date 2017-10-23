@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 01. Most Frequent Number\bin\Debug\Task_01.Most_Frequent_Number.exe.config
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 01. Most Frequent Number\bin\Debug\Task_01.Most_Frequent_Number.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 01. Most Frequent Number\bin\Debug\Task_01.Most_Frequent_Number.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 01. Most Frequent Number\obj\Debug\Task 01. Most Frequent Number.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 01. Most Frequent Number\obj\Debug\Task 01. Most Frequent Number.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 01. Most Frequent Number\obj\Debug\Task_01.Most_Frequent_Number.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 01. Most Frequent Number\obj\Debug\Task_01.Most_Frequent_Number.pdb

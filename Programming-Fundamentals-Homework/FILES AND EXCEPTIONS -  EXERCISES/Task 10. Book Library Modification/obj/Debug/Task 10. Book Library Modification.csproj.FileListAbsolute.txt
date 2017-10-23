@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 10. Book Library Modification\bin\Debug\Task_10.Book_Library_Modification.exe.config
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 10. Book Library Modification\bin\Debug\Task_10.Book_Library_Modification.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 10. Book Library Modification\bin\Debug\Task_10.Book_Library_Modification.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 10. Book Library Modification\obj\Debug\Task 10. Book Library Modification.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 10. Book Library Modification\obj\Debug\Task_10.Book_Library_Modification.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 10. Book Library Modification\obj\Debug\Task_10.Book_Library_Modification.pdb

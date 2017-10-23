@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 03. Equal Sums\bin\Debug\Task_03.Equal_Sums.exe.config
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 03. Equal Sums\bin\Debug\Task_03.Equal_Sums.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 03. Equal Sums\bin\Debug\Task_03.Equal_Sums.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 03. Equal Sums\obj\Debug\Task 03. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 03. Equal Sums\obj\Debug\Task_03.Equal_Sums.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 03. Equal Sums\obj\Debug\Task_03.Equal_Sums.pdb

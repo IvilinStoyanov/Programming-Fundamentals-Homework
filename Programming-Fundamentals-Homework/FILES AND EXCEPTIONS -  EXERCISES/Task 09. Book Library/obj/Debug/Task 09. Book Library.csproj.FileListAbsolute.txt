@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 09. Book Library\bin\Debug\Task_09.Book_Library.exe.config
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 09. Book Library\bin\Debug\Task_09.Book_Library.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 09. Book Library\bin\Debug\Task_09.Book_Library.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 09. Book Library\obj\Debug\Task 09. Book Library.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 09. Book Library\obj\Debug\Task_09.Book_Library.exe
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 09. Book Library\obj\Debug\Task_09.Book_Library.pdb
+C:\Users\Gigabyte\source\repos\Files and Exceptions - Exercises\Task 09. Book Library\obj\Debug\Task 09. Book Library.csprojResolveAssemblyReference.cache
