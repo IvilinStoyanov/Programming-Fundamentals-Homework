@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Problem 06. Sum Big Numbers\bin\Debug\Problem_06.Sum_Big_Numbers.exe.config
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Problem 06. Sum Big Numbers\bin\Debug\Problem_06.Sum_Big_Numbers.exe
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Problem 06. Sum Big Numbers\bin\Debug\Problem_06.Sum_Big_Numbers.pdb
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Problem 06. Sum Big Numbers\obj\Debug\Problem 06. Sum Big Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Problem 06. Sum Big Numbers\obj\Debug\Problem 06. Sum Big Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Problem 06. Sum Big Numbers\obj\Debug\Problem_06.Sum_Big_Numbers.exe
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Problem 06. Sum Big Numbers\obj\Debug\Problem_06.Sum_Big_Numbers.pdb

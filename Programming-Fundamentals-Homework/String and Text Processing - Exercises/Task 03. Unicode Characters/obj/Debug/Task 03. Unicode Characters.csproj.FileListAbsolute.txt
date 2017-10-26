@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 03. Unicode Characters\obj\Debug\Task 03. Unicode Characters.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 03. Unicode Characters\bin\Debug\Task_03.Unicode_Characters.exe.config
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 03. Unicode Characters\bin\Debug\Task_03.Unicode_Characters.exe
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 03. Unicode Characters\bin\Debug\Task_03.Unicode_Characters.pdb
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 03. Unicode Characters\obj\Debug\Task_03.Unicode_Characters.exe
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 03. Unicode Characters\obj\Debug\Task_03.Unicode_Characters.pdb

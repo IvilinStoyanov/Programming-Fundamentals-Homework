@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 01. Convert from Base-10 to Base-N\bin\Debug\Task_01.Convert_from_Base_10_to_Base_N.exe.config
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 01. Convert from Base-10 to Base-N\bin\Debug\Task_01.Convert_from_Base_10_to_Base_N.exe
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 01. Convert from Base-10 to Base-N\bin\Debug\Task_01.Convert_from_Base_10_to_Base_N.pdb
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 01. Convert from Base-10 to Base-N\obj\Debug\Task 01. Convert from Base-10 to Base-N.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 01. Convert from Base-10 to Base-N\obj\Debug\Task 01. Convert from Base-10 to Base-N.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 01. Convert from Base-10 to Base-N\obj\Debug\Task_01.Convert_from_Base_10_to_Base_N.exe
+C:\Users\Gigabyte\source\repos\String and Text Processing - Exercises\Task 01. Convert from Base-10 to Base-N\obj\Debug\Task_01.Convert_from_Base_10_to_Base_N.pdb
