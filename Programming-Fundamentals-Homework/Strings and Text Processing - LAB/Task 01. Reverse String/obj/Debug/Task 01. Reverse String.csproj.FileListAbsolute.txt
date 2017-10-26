@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 01. Reverse String\bin\Debug\Task_01.Reverse_String.exe.config
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 01. Reverse String\bin\Debug\Task_01.Reverse_String.exe
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 01. Reverse String\bin\Debug\Task_01.Reverse_String.pdb
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 01. Reverse String\obj\Debug\Task 01. Reverse String.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 01. Reverse String\obj\Debug\Task 01. Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 01. Reverse String\obj\Debug\Task_01.Reverse_String.exe
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 01. Reverse String\obj\Debug\Task_01.Reverse_String.pdb

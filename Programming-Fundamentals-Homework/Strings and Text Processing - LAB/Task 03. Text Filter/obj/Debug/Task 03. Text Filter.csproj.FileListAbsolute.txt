@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 03. Text Filter\bin\Debug\Task_03.Text_Filter.exe.config
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 03. Text Filter\bin\Debug\Task_03.Text_Filter.exe
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 03. Text Filter\bin\Debug\Task_03.Text_Filter.pdb
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 03. Text Filter\obj\Debug\Task 03. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 03. Text Filter\obj\Debug\Task_03.Text_Filter.exe
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 03. Text Filter\obj\Debug\Task_03.Text_Filter.pdb

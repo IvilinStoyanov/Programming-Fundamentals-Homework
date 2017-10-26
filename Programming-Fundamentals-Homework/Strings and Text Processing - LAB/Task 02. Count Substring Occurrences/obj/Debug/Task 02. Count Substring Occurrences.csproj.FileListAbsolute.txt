@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 02. Count Substring Occurrences\bin\Debug\Task_02.Count_Substring_Occurrences.exe.config
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 02. Count Substring Occurrences\bin\Debug\Task_02.Count_Substring_Occurrences.exe
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 02. Count Substring Occurrences\bin\Debug\Task_02.Count_Substring_Occurrences.pdb
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 02. Count Substring Occurrences\obj\Debug\Task 02. Count Substring Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 02. Count Substring Occurrences\obj\Debug\Task 02. Count Substring Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 02. Count Substring Occurrences\obj\Debug\Task_02.Count_Substring_Occurrences.exe
+C:\Users\Gigabyte\source\repos\Strings and Text Processing - LAB\Task 02. Count Substring Occurrences\obj\Debug\Task_02.Count_Substring_Occurrences.pdb
