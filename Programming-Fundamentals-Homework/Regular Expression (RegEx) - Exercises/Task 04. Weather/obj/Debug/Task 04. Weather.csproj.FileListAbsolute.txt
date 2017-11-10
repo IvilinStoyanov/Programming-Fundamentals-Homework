@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 04. Weather\bin\Debug\Task_04.Weather.exe.config
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 04. Weather\bin\Debug\Task_04.Weather.exe
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 04. Weather\bin\Debug\Task_04.Weather.pdb
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 04. Weather\obj\Debug\Task 04. Weather.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 04. Weather\obj\Debug\Task 04. Weather.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 04. Weather\obj\Debug\Task_04.Weather.exe
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 04. Weather\obj\Debug\Task_04.Weather.pdb

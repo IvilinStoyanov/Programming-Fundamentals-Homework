@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 03. Camera View\bin\Debug\Task_03.Camera_View.exe.config
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 03. Camera View\bin\Debug\Task_03.Camera_View.exe
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 03. Camera View\bin\Debug\Task_03.Camera_View.pdb
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 03. Camera View\obj\Debug\Task 03. Camera View.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 03. Camera View\obj\Debug\Task_03.Camera_View.exe
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 03. Camera View\obj\Debug\Task_03.Camera_View.pdb

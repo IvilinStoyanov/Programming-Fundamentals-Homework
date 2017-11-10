@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 01. Extract Emails\bin\Debug\Task_01.Extract_Emails.exe.config
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 01. Extract Emails\bin\Debug\Task_01.Extract_Emails.exe
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 01. Extract Emails\bin\Debug\Task_01.Extract_Emails.pdb
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 01. Extract Emails\obj\Debug\Task 01. Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 01. Extract Emails\obj\Debug\Task 01. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 01. Extract Emails\obj\Debug\Task_01.Extract_Emails.exe
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 01. Extract Emails\obj\Debug\Task_01.Extract_Emails.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 02. Extract Sentences by Keyword\obj\Debug\Task 02. Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 02. Extract Sentences by Keyword\bin\Debug\Task_02.Extract_Sentences_by_Keyword.exe.config
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 02. Extract Sentences by Keyword\bin\Debug\Task_02.Extract_Sentences_by_Keyword.exe
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 02. Extract Sentences by Keyword\bin\Debug\Task_02.Extract_Sentences_by_Keyword.pdb
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 02. Extract Sentences by Keyword\obj\Debug\Task_02.Extract_Sentences_by_Keyword.exe
+C:\Users\Gigabyte\source\repos\Regular Expression (RegEx) - Exercises\Task 02. Extract Sentences by Keyword\obj\Debug\Task_02.Extract_Sentences_by_Keyword.pdb
