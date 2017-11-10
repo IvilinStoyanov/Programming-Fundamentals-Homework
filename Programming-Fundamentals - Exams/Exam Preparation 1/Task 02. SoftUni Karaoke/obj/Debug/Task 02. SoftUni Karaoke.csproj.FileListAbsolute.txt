@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 02. SoftUni Karaoke\bin\Debug\Task_02.SoftUni_Karaoke.exe.config
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 02. SoftUni Karaoke\bin\Debug\Task_02.SoftUni_Karaoke.exe
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 02. SoftUni Karaoke\bin\Debug\Task_02.SoftUni_Karaoke.pdb
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 02. SoftUni Karaoke\obj\Debug\Task 02. SoftUni Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 02. SoftUni Karaoke\obj\Debug\Task 02. SoftUni Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 02. SoftUni Karaoke\obj\Debug\Task_02.SoftUni_Karaoke.exe
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 02. SoftUni Karaoke\obj\Debug\Task_02.SoftUni_Karaoke.pdb

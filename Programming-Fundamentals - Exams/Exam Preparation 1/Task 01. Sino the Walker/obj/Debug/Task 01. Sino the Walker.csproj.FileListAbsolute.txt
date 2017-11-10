@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 01. Sino the Walker\bin\Debug\Task_01.Sino_the_Walker.exe.config
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 01. Sino the Walker\bin\Debug\Task_01.Sino_the_Walker.exe
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 01. Sino the Walker\bin\Debug\Task_01.Sino_the_Walker.pdb
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 01. Sino the Walker\obj\Debug\Task 01. Sino the Walker.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 01. Sino the Walker\obj\Debug\Task 01. Sino the Walker.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 01. Sino the Walker\obj\Debug\Task_01.Sino_the_Walker.exe
+C:\Users\Gigabyte\source\repos\Exam Preparation 1\Task 01. Sino the Walker\obj\Debug\Task_01.Sino_the_Walker.pdb
