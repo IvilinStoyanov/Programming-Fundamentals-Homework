@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 01. Hornet Wings\bin\Debug\Task_01.Hornet_Wings.exe.config
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 01. Hornet Wings\bin\Debug\Task_01.Hornet_Wings.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 01. Hornet Wings\bin\Debug\Task_01.Hornet_Wings.pdb
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 01. Hornet Wings\obj\Debug\Task 01. Hornet Wings.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 01. Hornet Wings\obj\Debug\Task 01. Hornet Wings.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 01. Hornet Wings\obj\Debug\Task_01.Hornet_Wings.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 01. Hornet Wings\obj\Debug\Task_01.Hornet_Wings.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 04. Hornet Armada\bin\Debug\Task_04.Hornet_Armada.exe.config
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 04. Hornet Armada\bin\Debug\Task_04.Hornet_Armada.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 04. Hornet Armada\bin\Debug\Task_04.Hornet_Armada.pdb
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 04. Hornet Armada\obj\Debug\Task 04. Hornet Armada.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 04. Hornet Armada\obj\Debug\Task 04. Hornet Armada.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 04. Hornet Armada\obj\Debug\Task_04.Hornet_Armada.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 04. Hornet Armada\obj\Debug\Task_04.Hornet_Armada.pdb

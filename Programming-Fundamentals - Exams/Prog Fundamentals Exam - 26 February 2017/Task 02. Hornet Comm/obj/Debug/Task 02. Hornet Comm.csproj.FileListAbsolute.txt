@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 02. Hornet Comm\bin\Debug\Task_02.Hornet_Comm.exe.config
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 02. Hornet Comm\bin\Debug\Task_02.Hornet_Comm.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 02. Hornet Comm\bin\Debug\Task_02.Hornet_Comm.pdb
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 02. Hornet Comm\obj\Debug\Task 02. Hornet Comm.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 02. Hornet Comm\obj\Debug\Task 02. Hornet Comm.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 02. Hornet Comm\obj\Debug\Task_02.Hornet_Comm.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 26 February 2017\Task 02. Hornet Comm\obj\Debug\Task_02.Hornet_Comm.pdb
