@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 03. Anonymous Vox\obj\Debug\Task 03. Anonymous Vox.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 03. Anonymous Vox\obj\Debug\Task 03. Anonymous Vox.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 03. Anonymous Vox\bin\Debug\Task_03.Anonymous_Vox.exe.config
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 03. Anonymous Vox\bin\Debug\Task_03.Anonymous_Vox.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 03. Anonymous Vox\bin\Debug\Task_03.Anonymous_Vox.pdb
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 03. Anonymous Vox\obj\Debug\Task_03.Anonymous_Vox.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 03. Anonymous Vox\obj\Debug\Task_03.Anonymous_Vox.pdb

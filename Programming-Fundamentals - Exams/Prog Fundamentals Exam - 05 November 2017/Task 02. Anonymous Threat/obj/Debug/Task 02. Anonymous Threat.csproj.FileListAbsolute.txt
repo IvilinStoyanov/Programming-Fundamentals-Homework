@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 02. Anonymous Threat\bin\Debug\Task_02.Anonymous_Threat.exe.config
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 02. Anonymous Threat\bin\Debug\Task_02.Anonymous_Threat.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 02. Anonymous Threat\bin\Debug\Task_02.Anonymous_Threat.pdb
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 02. Anonymous Threat\obj\Debug\Task 02. Anonymous Threat.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 02. Anonymous Threat\obj\Debug\Task 02. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 02. Anonymous Threat\obj\Debug\Task_02.Anonymous_Threat.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 02. Anonymous Threat\obj\Debug\Task_02.Anonymous_Threat.pdb

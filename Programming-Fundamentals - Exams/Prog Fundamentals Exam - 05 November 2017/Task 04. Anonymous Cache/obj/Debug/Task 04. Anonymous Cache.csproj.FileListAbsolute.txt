@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 04. Anonymous Cache\bin\Debug\Task_04.Anonymous_Cache.exe.config
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 04. Anonymous Cache\bin\Debug\Task_04.Anonymous_Cache.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 04. Anonymous Cache\bin\Debug\Task_04.Anonymous_Cache.pdb
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 04. Anonymous Cache\obj\Debug\Task 04. Anonymous Cache.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 04. Anonymous Cache\obj\Debug\Task 04. Anonymous Cache.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 04. Anonymous Cache\obj\Debug\Task_04.Anonymous_Cache.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Exam - 05 November 2017 Part I\Task 04. Anonymous Cache\obj\Debug\Task_04.Anonymous_Cache.pdb
