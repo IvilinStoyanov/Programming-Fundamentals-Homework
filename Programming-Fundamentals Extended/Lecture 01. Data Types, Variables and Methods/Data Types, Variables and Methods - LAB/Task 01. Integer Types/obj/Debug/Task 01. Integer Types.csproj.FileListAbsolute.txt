@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 01. Integer Types\bin\Debug\Task_01.Integer_Types.exe.config
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 01. Integer Types\bin\Debug\Task_01.Integer_Types.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 01. Integer Types\bin\Debug\Task_01.Integer_Types.pdb
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 01. Integer Types\obj\Debug\Task 01. Integer Types.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 01. Integer Types\obj\Debug\Task 01. Integer Types.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 01. Integer Types\obj\Debug\Task_01.Integer_Types.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 01. Integer Types\obj\Debug\Task_01.Integer_Types.pdb

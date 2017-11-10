@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 03. Big Power\bin\Debug\Task_03.Big_Power.exe.config
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 03. Big Power\bin\Debug\Task_03.Big_Power.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 03. Big Power\bin\Debug\Task_03.Big_Power.pdb
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 03. Big Power\obj\Debug\Task 03. Big Power.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 03. Big Power\obj\Debug\Task 03. Big Power.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 03. Big Power\obj\Debug\Task_03.Big_Power.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables and Methods - LAB\Task 03. Big Power\obj\Debug\Task_03.Big_Power.pdb
