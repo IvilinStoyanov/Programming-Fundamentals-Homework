@@ -1,0 +1,14 @@
+h1  {
+	color:red;
+	font-size:30px;
+	}
+	
+.lang {
+	color:green;
+	padding: 2px 10px;
+	border: 1px solid #AAA;
+	background: #CCC;
+	line-height:1.5em; 
+	font-size:24pt;
+	border-radius: 10px;
+}
