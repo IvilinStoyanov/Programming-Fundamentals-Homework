@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 05. Wormtest\bin\Debug\Task_05.Wormtest.exe.config
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 05. Wormtest\bin\Debug\Task_05.Wormtest.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 05. Wormtest\bin\Debug\Task_05.Wormtest.pdb
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 05. Wormtest\obj\Debug\Task 05. Wormtest.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 05. Wormtest\obj\Debug\Task 05. Wormtest.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 05. Wormtest\obj\Debug\Task_05.Wormtest.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 05. Wormtest\obj\Debug\Task_05.Wormtest.pdb

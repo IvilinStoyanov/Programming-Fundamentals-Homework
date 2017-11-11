@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 04. Resurrection\bin\Debug\Task_04.Resurrection.exe.config
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 04. Resurrection\bin\Debug\Task_04.Resurrection.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 04. Resurrection\bin\Debug\Task_04.Resurrection.pdb
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 04. Resurrection\obj\Debug\Task 04. Resurrection.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 04. Resurrection\obj\Debug\Task_04.Resurrection.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 04. Resurrection\obj\Debug\Task_04.Resurrection.pdb

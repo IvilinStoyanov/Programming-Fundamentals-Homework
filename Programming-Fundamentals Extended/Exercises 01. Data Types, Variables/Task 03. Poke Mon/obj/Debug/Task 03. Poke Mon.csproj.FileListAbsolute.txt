@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 03. Poke Mon\bin\Debug\Task_03.Poke_Mon.exe.config
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 03. Poke Mon\bin\Debug\Task_03.Poke_Mon.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 03. Poke Mon\bin\Debug\Task_03.Poke_Mon.pdb
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 03. Poke Mon\obj\Debug\Task 03. Poke Mon.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 03. Poke Mon\obj\Debug\Task 03. Poke Mon.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 03. Poke Mon\obj\Debug\Task_03.Poke_Mon.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 03. Poke Mon\obj\Debug\Task_03.Poke_Mon.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 02. Hornet Wings\bin\Debug\Task_02.Hornet_Wings.exe.config
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 02. Hornet Wings\bin\Debug\Task_02.Hornet_Wings.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 02. Hornet Wings\bin\Debug\Task_02.Hornet_Wings.pdb
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 02. Hornet Wings\obj\Debug\Task 02. Hornet Wings.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 02. Hornet Wings\obj\Debug\Task_02.Hornet_Wings.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 02. Hornet Wings\obj\Debug\Task_02.Hornet_Wings.pdb

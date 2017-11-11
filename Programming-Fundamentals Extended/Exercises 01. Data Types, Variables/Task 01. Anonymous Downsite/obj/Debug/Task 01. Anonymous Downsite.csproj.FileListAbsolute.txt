@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 01. Anonymous Downsite\bin\Debug\Task_01.Anonymous_Downsite.exe.config
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 01. Anonymous Downsite\bin\Debug\Task_01.Anonymous_Downsite.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 01. Anonymous Downsite\bin\Debug\Task_01.Anonymous_Downsite.pdb
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 01. Anonymous Downsite\obj\Debug\Task 01. Anonymous Downsite.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 01. Anonymous Downsite\obj\Debug\Task 01. Anonymous Downsite.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 01. Anonymous Downsite\obj\Debug\Task_01.Anonymous_Downsite.exe
+C:\Users\Gigabyte\source\repos\Data Types, Variables  Extended - Exercises\Task 01. Anonymous Downsite\obj\Debug\Task_01.Anonymous_Downsite.pdb
