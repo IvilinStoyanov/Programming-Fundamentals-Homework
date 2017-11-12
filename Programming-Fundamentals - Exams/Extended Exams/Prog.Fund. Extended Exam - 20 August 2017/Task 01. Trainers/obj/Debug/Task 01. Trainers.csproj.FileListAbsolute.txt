@@ -1,0 +1,7 @@
+D:\GitHub\Software-University\Current work\Prog.Fund. Extended Exam - 20 August 2017\Task 01. Trainers\bin\Debug\Task_01.Trainers.exe.config
+D:\GitHub\Software-University\Current work\Prog.Fund. Extended Exam - 20 August 2017\Task 01. Trainers\bin\Debug\Task_01.Trainers.exe
+D:\GitHub\Software-University\Current work\Prog.Fund. Extended Exam - 20 August 2017\Task 01. Trainers\bin\Debug\Task_01.Trainers.pdb
+D:\GitHub\Software-University\Current work\Prog.Fund. Extended Exam - 20 August 2017\Task 01. Trainers\obj\Debug\Task 01. Trainers.csprojResolveAssemblyReference.cache
+D:\GitHub\Software-University\Current work\Prog.Fund. Extended Exam - 20 August 2017\Task 01. Trainers\obj\Debug\Task 01. Trainers.csproj.CoreCompileInputs.cache
+D:\GitHub\Software-University\Current work\Prog.Fund. Extended Exam - 20 August 2017\Task 01. Trainers\obj\Debug\Task_01.Trainers.exe
+D:\GitHub\Software-University\Current work\Prog.Fund. Extended Exam - 20 August 2017\Task 01. Trainers\obj\Debug\Task_01.Trainers.pdb
