@@ -1,0 +1,6 @@
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 04. CODE Phoenix Oscar Romeo November\bin\Debug\Task_04.CODE_Phoenix_Oscar_Romeo_November.exe.config
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 04. CODE Phoenix Oscar Romeo November\bin\Debug\Task_04.CODE_Phoenix_Oscar_Romeo_November.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 04. CODE Phoenix Oscar Romeo November\bin\Debug\Task_04.CODE_Phoenix_Oscar_Romeo_November.pdb
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 04. CODE Phoenix Oscar Romeo November\obj\Debug\Task 04. CODE Phoenix Oscar Romeo November.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 04. CODE Phoenix Oscar Romeo November\obj\Debug\Task_04.CODE_Phoenix_Oscar_Romeo_November.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 04. CODE Phoenix Oscar Romeo November\obj\Debug\Task_04.CODE_Phoenix_Oscar_Romeo_November.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 02. Icarus\bin\Debug\Task_02.Icarus.exe.config
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 02. Icarus\bin\Debug\Task_02.Icarus.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 02. Icarus\bin\Debug\Task_02.Icarus.pdb
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 02. Icarus\obj\Debug\Task 02. Icarus.csprojResolveAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 02. Icarus\obj\Debug\Task 02. Icarus.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 02. Icarus\obj\Debug\Task_02.Icarus.exe
+C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 02. Icarus\obj\Debug\Task_02.Icarus.pdb
