@@ -1,7 +1,0 @@
-C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 03. Phoenix Grid\bin\Debug\Task_03.Phoenix_Grid.exe.config
-C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 03. Phoenix Grid\bin\Debug\Task_03.Phoenix_Grid.exe
-C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 03. Phoenix Grid\bin\Debug\Task_03.Phoenix_Grid.pdb
-C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 03. Phoenix Grid\obj\Debug\Task 03. Phoenix Grid.csprojResolveAssemblyReference.cache
-C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 03. Phoenix Grid\obj\Debug\Task 03. Phoenix Grid.csproj.CoreCompileInputs.cache
-C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 03. Phoenix Grid\obj\Debug\Task_03.Phoenix_Grid.exe
-C:\Users\Gigabyte\source\repos\Prog Fundamentals Extented - Exam\Solution1\Task 03. Phoenix Grid\obj\Debug\Task_03.Phoenix_Grid.pdb
