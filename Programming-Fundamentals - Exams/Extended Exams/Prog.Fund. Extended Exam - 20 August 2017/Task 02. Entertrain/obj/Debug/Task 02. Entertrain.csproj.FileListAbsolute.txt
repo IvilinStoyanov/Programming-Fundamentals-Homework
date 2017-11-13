@@ -1,0 +1,7 @@
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 02. Entertrain\bin\Debug\Task_02.Entertrain.exe.config
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 02. Entertrain\bin\Debug\Task_02.Entertrain.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 02. Entertrain\bin\Debug\Task_02.Entertrain.pdb
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 02. Entertrain\obj\Debug\Task 02. Entertrain.csprojResolveAssemblyReference.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 02. Entertrain\obj\Debug\Task 02. Entertrain.csproj.CoreCompileInputs.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 02. Entertrain\obj\Debug\Task_02.Entertrain.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 02. Entertrain\obj\Debug\Task_02.Entertrain.pdb
