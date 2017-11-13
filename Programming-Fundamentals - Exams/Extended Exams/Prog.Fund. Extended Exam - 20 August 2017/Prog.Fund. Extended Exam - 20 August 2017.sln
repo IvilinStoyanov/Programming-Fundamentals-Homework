@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01. Trainers", "Task 0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02. Entertrain", "Task 02. Entertrain\Task 02. Entertrain.csproj", "{84A7A3A6-C3D2-404A-8532-98DDD4922AE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 03. Trainegram", "Task 03. Trainegram\Task 03. Trainegram.csproj", "{A9854CCA-84CB-4998-9F8F-8D82B2EA269B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{84A7A3A6-C3D2-404A-8532-98DDD4922AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84A7A3A6-C3D2-404A-8532-98DDD4922AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84A7A3A6-C3D2-404A-8532-98DDD4922AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9854CCA-84CB-4998-9F8F-8D82B2EA269B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9854CCA-84CB-4998-9F8F-8D82B2EA269B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9854CCA-84CB-4998-9F8F-8D82B2EA269B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9854CCA-84CB-4998-9F8F-8D82B2EA269B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
