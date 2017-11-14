@@ -1,0 +1,7 @@
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 04. Trainlands\bin\Debug\Task_04.Trainlands.exe.config
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 04. Trainlands\bin\Debug\Task_04.Trainlands.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 04. Trainlands\bin\Debug\Task_04.Trainlands.pdb
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 04. Trainlands\obj\Debug\Task 04. Trainlands.csprojResolveAssemblyReference.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 04. Trainlands\obj\Debug\Task 04. Trainlands.csproj.CoreCompileInputs.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 04. Trainlands\obj\Debug\Task_04.Trainlands.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog.Fund. Extended Exam - 20 August 2017\Task 04. Trainlands\obj\Debug\Task_04.Trainlands.pdb
