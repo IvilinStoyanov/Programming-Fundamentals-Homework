@@ -1,0 +1,7 @@
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended - Exam  09 May 2017\Task 01. Splinter Trip\bin\Debug\Task_01.Splinter_Trip.exe.config
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended - Exam  09 May 2017\Task 01. Splinter Trip\bin\Debug\Task_01.Splinter_Trip.exe
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended - Exam  09 May 2017\Task 01. Splinter Trip\bin\Debug\Task_01.Splinter_Trip.pdb
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended - Exam  09 May 2017\Task 01. Splinter Trip\obj\Debug\Task 01. Splinter Trip.csprojResolveAssemblyReference.cache
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended - Exam  09 May 2017\Task 01. Splinter Trip\obj\Debug\Task 01. Splinter Trip.csproj.CoreCompileInputs.cache
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended - Exam  09 May 2017\Task 01. Splinter Trip\obj\Debug\Task_01.Splinter_Trip.exe
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended - Exam  09 May 2017\Task 01. Splinter Trip\obj\Debug\Task_01.Splinter_Trip.pdb
