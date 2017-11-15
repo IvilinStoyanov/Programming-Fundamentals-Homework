@@ -1,0 +1,7 @@
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 02. SpyGram\bin\Debug\Task_02.SpyGram.exe.config
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 02. SpyGram\bin\Debug\Task_02.SpyGram.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 02. SpyGram\bin\Debug\Task_02.SpyGram.pdb
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 02. SpyGram\obj\Debug\Task 02. SpyGram.csprojResolveAssemblyReference.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 02. SpyGram\obj\Debug\Task 02. SpyGram.csproj.CoreCompileInputs.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 02. SpyGram\obj\Debug\Task_02.SpyGram.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 02. SpyGram\obj\Debug\Task_02.SpyGram.pdb
