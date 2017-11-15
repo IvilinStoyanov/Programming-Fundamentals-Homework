@@ -1,0 +1,7 @@
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 03. Spyfer\bin\Debug\Task_03.Spyfer.exe.config
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 03. Spyfer\bin\Debug\Task_03.Spyfer.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 03. Spyfer\bin\Debug\Task_03.Spyfer.pdb
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 03. Spyfer\obj\Debug\Task 03. Spyfer.csprojResolveAssemblyReference.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 03. Spyfer\obj\Debug\Task 03. Spyfer.csproj.CoreCompileInputs.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 03. Spyfer\obj\Debug\Task_03.Spyfer.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 03. Spyfer\obj\Debug\Task_03.Spyfer.pdb
