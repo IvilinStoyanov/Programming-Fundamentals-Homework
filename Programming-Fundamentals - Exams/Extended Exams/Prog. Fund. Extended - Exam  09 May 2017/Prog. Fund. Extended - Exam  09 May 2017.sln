@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02. SpyGram", "Task 02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 03. Spyfer", "Task 03. Spyfer\Task 03. Spyfer.csproj", "{0BDF0416-ABDB-4511-9479-A81F615DA393}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 04. NSA", "Task 04. NSA\Task 04. NSA.csproj", "{CFA467C4-274D-4BF4-BEBD-56CB99773FFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0BDF0416-ABDB-4511-9479-A81F615DA393}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BDF0416-ABDB-4511-9479-A81F615DA393}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BDF0416-ABDB-4511-9479-A81F615DA393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA467C4-274D-4BF4-BEBD-56CB99773FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA467C4-274D-4BF4-BEBD-56CB99773FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA467C4-274D-4BF4-BEBD-56CB99773FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA467C4-274D-4BF4-BEBD-56CB99773FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

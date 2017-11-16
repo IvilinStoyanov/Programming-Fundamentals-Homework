@@ -1,0 +1,7 @@
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 04. NSA\bin\Debug\Task_04.NSA.exe.config
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 04. NSA\bin\Debug\Task_04.NSA.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 04. NSA\bin\Debug\Task_04.NSA.pdb
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 04. NSA\obj\Debug\Task 04. NSA.csprojResolveAssemblyReference.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 04. NSA\obj\Debug\Task 04. NSA.csproj.CoreCompileInputs.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 04. NSA\obj\Debug\Task_04.NSA.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended - Exam  09 May 2017\Task 04. NSA\obj\Debug\Task_04.NSA.pdb
