@@ -1,0 +1,7 @@
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended Exam - 30 April 2017\Task 01. Wormtest\bin\Debug\Task_01.Wormtest.exe.config
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended Exam - 30 April 2017\Task 01. Wormtest\bin\Debug\Task_01.Wormtest.exe
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended Exam - 30 April 2017\Task 01. Wormtest\bin\Debug\Task_01.Wormtest.pdb
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended Exam - 30 April 2017\Task 01. Wormtest\obj\Debug\Task 01. Wormtest.csprojResolveAssemblyReference.cache
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended Exam - 30 April 2017\Task 01. Wormtest\obj\Debug\Task 01. Wormtest.csproj.CoreCompileInputs.cache
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended Exam - 30 April 2017\Task 01. Wormtest\obj\Debug\Task_01.Wormtest.exe
+D:\GitHub\Software-University\Current work\Prog. Fund. Extended Exam - 30 April 2017\Task 01. Wormtest\obj\Debug\Task_01.Wormtest.pdb
