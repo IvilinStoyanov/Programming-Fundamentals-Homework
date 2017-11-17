@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02. Worm Ipsum", "Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 03. Wormhole", "Task 03. Wormhole\Task 03. Wormhole.csproj", "{F9A0F72C-A1CB-497A-A4FB-656CA3FD1834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 04. Worms World Party", "Task 04. Worms World Party\Task 04. Worms World Party.csproj", "{AD9B0703-86FD-4187-853A-67E4FB812EA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F9A0F72C-A1CB-497A-A4FB-656CA3FD1834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9A0F72C-A1CB-497A-A4FB-656CA3FD1834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9A0F72C-A1CB-497A-A4FB-656CA3FD1834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9B0703-86FD-4187-853A-67E4FB812EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9B0703-86FD-4187-853A-67E4FB812EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9B0703-86FD-4187-853A-67E4FB812EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9B0703-86FD-4187-853A-67E4FB812EA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

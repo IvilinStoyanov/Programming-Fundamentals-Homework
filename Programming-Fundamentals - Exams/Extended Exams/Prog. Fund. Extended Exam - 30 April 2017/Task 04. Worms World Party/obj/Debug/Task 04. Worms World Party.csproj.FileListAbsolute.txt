@@ -1,0 +1,7 @@
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 04. Worms World Party\bin\Debug\Task_04.Worms_World_Party.exe.config
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 04. Worms World Party\bin\Debug\Task_04.Worms_World_Party.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 04. Worms World Party\bin\Debug\Task_04.Worms_World_Party.pdb
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 04. Worms World Party\obj\Debug\Task 04. Worms World Party.csprojResolveAssemblyReference.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 04. Worms World Party\obj\Debug\Task 04. Worms World Party.csproj.CoreCompileInputs.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 04. Worms World Party\obj\Debug\Task_04.Worms_World_Party.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 04. Worms World Party\obj\Debug\Task_04.Worms_World_Party.pdb
