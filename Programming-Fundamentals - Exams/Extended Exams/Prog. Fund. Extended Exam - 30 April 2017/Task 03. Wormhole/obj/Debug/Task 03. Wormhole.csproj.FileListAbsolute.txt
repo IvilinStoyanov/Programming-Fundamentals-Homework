@@ -1,0 +1,7 @@
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 03. Wormhole\bin\Debug\Task_03.Wormhole.exe.config
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 03. Wormhole\bin\Debug\Task_03.Wormhole.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 03. Wormhole\bin\Debug\Task_03.Wormhole.pdb
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 03. Wormhole\obj\Debug\Task 03. Wormhole.csprojResolveAssemblyReference.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 03. Wormhole\obj\Debug\Task 03. Wormhole.csproj.CoreCompileInputs.cache
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 03. Wormhole\obj\Debug\Task_03.Wormhole.exe
+D:\GitHub\Software-University\Programming-Fundamentals - Exams\Extended Exams\Prog. Fund. Extended Exam - 30 April 2017\Task 03. Wormhole\obj\Debug\Task_03.Wormhole.pdb

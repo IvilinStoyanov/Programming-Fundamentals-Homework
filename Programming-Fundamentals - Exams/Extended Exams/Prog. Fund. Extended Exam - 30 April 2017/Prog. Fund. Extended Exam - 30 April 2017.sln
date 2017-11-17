@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01. Wormtest", "Task 0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02. Worm Ipsum", "Task 02. Worm Ipsum\Task 02. Worm Ipsum.csproj", "{ACAD281A-A9C4-499E-8374-128AE04375D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 03. Wormhole", "Task 03. Wormhole\Task 03. Wormhole.csproj", "{F9A0F72C-A1CB-497A-A4FB-656CA3FD1834}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ACAD281A-A9C4-499E-8374-128AE04375D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACAD281A-A9C4-499E-8374-128AE04375D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACAD281A-A9C4-499E-8374-128AE04375D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A0F72C-A1CB-497A-A4FB-656CA3FD1834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A0F72C-A1CB-497A-A4FB-656CA3FD1834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A0F72C-A1CB-497A-A4FB-656CA3FD1834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A0F72C-A1CB-497A-A4FB-656CA3FD1834}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
