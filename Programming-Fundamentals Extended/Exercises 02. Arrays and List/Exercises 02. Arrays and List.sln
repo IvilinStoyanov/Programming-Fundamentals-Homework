@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01. Anonymous Threat",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02.Icarus", "Task 02.Icarus\Task 02.Icarus.csproj", "{27261458-CDAF-4FFD-9406-8879A4C2C852}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 03.Pokemon Don’t Go", "Task 03.Pokemon Don’t Go\Task 03.Pokemon Don’t Go.csproj", "{AC3814FF-ADEC-4107-91AA-29B9219F32A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{27261458-CDAF-4FFD-9406-8879A4C2C852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27261458-CDAF-4FFD-9406-8879A4C2C852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27261458-CDAF-4FFD-9406-8879A4C2C852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3814FF-ADEC-4107-91AA-29B9219F32A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3814FF-ADEC-4107-91AA-29B9219F32A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3814FF-ADEC-4107-91AA-29B9219F32A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3814FF-ADEC-4107-91AA-29B9219F32A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
