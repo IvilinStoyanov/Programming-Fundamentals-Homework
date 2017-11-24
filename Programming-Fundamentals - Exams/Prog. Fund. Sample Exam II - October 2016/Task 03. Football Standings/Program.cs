@@ -6,7 +6,7 @@ class FootballLeague
 {
     static void Main()
     {
-        Dictionary<string, int> standings = new Dictionary<string, int>();
+        Dictionary<string, int> teamStanding = new Dictionary<string, int>();
         Dictionary<string, int> teamGoals = new Dictionary<string, int>();
 
         string key = Console.ReadLine();
@@ -23,18 +23,18 @@ class FootballLeague
 
             if (firstTeamGoals > secondTeamGoals)
             {
-                AddScoreToTeam(standings, firstTeamName, 3);
-                AddScoreToTeam(standings, secondTeamName, 0);
+                AddScoreToTeam(teamStanding, firstTeamName, 3);
+                AddScoreToTeam(teamStanding, secondTeamName, 0);
             }
             else if (firstTeamGoals < secondTeamGoals)
             {
-                AddScoreToTeam(standings, firstTeamName, 0);
-                AddScoreToTeam(standings, secondTeamName, 3);
+                AddScoreToTeam(teamStanding, firstTeamName, 0);
+                AddScoreToTeam(teamStanding, secondTeamName, 3);
             }
             else
             {
-                AddScoreToTeam(standings, firstTeamName, 1);
-                AddScoreToTeam(standings, secondTeamName, 1);
+                AddScoreToTeam(teamStanding, firstTeamName, 1);
+                AddScoreToTeam(teamStanding, secondTeamName, 1);
             }
 
             AddScoreToTeam(teamGoals, firstTeamName, firstTeamGoals);
@@ -44,7 +44,7 @@ class FootballLeague
         }
 
         Console.WriteLine("League standings:");
-        var sorted = standings.OrderByDescending(t => t.Value).ThenBy(t => t.Key);
+        var sorted = teamStanding.OrderByDescending(t => t.Value).ThenBy(t => t.Key);
         int count = 1;
         foreach (var team in sorted)
         {
