@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01. Sweet Dessert", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02. Array Manipulator", "Task 02. Array Manipulator\Task 02. Array Manipulator.csproj", "{D3CA3828-42FD-45B3-B8DD-70BD0ADF1871}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 03. Football Standings", "Task 03. Football Standings\Task 03. Football Standings.csproj", "{07CA5993-9564-4122-A2D8-3200EB144BBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D3CA3828-42FD-45B3-B8DD-70BD0ADF1871}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3CA3828-42FD-45B3-B8DD-70BD0ADF1871}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3CA3828-42FD-45B3-B8DD-70BD0ADF1871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CA5993-9564-4122-A2D8-3200EB144BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CA5993-9564-4122-A2D8-3200EB144BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CA5993-9564-4122-A2D8-3200EB144BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CA5993-9564-4122-A2D8-3200EB144BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
