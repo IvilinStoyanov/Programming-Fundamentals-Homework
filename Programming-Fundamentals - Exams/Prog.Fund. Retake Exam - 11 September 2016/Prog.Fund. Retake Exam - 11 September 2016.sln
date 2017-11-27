@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01. Thea the Photograp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02.Trophon the Grumpy Cat", "Task 02.Trophon the Grumpy Cat\Task 02.Trophon the Grumpy Cat.csproj", "{79ADA36C-C274-4FF5-9F86-7BCADAA8EBF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 03. Portal", "Task 03. Portal\Task 03. Portal.csproj", "{4E299798-BC00-4F32-8A38-D6A95344EC82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 04. Files", "Task 04. Files\Task 04. Files.csproj", "{381F8026-437C-428B-A928-4AB9FC73BC09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{79ADA36C-C274-4FF5-9F86-7BCADAA8EBF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79ADA36C-C274-4FF5-9F86-7BCADAA8EBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79ADA36C-C274-4FF5-9F86-7BCADAA8EBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E299798-BC00-4F32-8A38-D6A95344EC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E299798-BC00-4F32-8A38-D6A95344EC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E299798-BC00-4F32-8A38-D6A95344EC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E299798-BC00-4F32-8A38-D6A95344EC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381F8026-437C-428B-A928-4AB9FC73BC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381F8026-437C-428B-A928-4AB9FC73BC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381F8026-437C-428B-A928-4AB9FC73BC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381F8026-437C-428B-A928-4AB9FC73BC09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
