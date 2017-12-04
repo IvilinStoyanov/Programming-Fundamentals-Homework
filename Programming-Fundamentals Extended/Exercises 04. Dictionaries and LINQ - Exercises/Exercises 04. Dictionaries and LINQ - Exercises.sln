@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 01. Anonymous Cache", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 02. Hornet Armada", "Task 02. Hornet Armada\Task 02. Hornet Armada.csproj", "{89002461-97AF-40E1-AB58-DA9AEC83C6BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 03.Phoenix Oscar", "Task 03.Phoenix Oscar\Task 03.Phoenix Oscar.csproj", "{62FE5FFD-046B-40A5-B7EA-F2ED7BCDC237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 04. Trainlands", "Task 04. Trainlands\Task 04. Trainlands.csproj", "{DFADD4A7-4CCC-4C58-B8D8-D45019A10131}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{89002461-97AF-40E1-AB58-DA9AEC83C6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89002461-97AF-40E1-AB58-DA9AEC83C6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89002461-97AF-40E1-AB58-DA9AEC83C6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FE5FFD-046B-40A5-B7EA-F2ED7BCDC237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FE5FFD-046B-40A5-B7EA-F2ED7BCDC237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FE5FFD-046B-40A5-B7EA-F2ED7BCDC237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FE5FFD-046B-40A5-B7EA-F2ED7BCDC237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFADD4A7-4CCC-4C58-B8D8-D45019A10131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFADD4A7-4CCC-4C58-B8D8-D45019A10131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFADD4A7-4CCC-4C58-B8D8-D45019A10131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFADD4A7-4CCC-4C58-B8D8-D45019A10131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
